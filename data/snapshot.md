@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-04-30
-_Generated: 2026-05-01 08:59 MRU_
+_Generated: 2026-05-01 19:48 MRU_
 
 ## ETF Flows
 **BTC**: flow $15M | 7d $98M | 30d $1.7B | AUM $100.5B
@@ -7,13 +7,13 @@ _Generated: 2026-05-01 08:59 MRU_
 **SOL**: flow -$1M | 7d $5M | 30d $29M | AUM $0.8B
 
 ## Macro Prices (IG)
-Nasdaq 100: `27501.90` +54.80 (+0.20%)
-S&P 500: `7229.40` +21.94 (+0.30%)
-Gold: `4611.03` -11.39 (-0.25%)
-WTI Crude: `102.96` -0.11 (-0.10%)
-Brent Crude: `110.38` +0.27 (+0.24%)
-EUR/USD: `1.1727` -0.0004 (-0.03%)
-USD/JPY: `1.5726` +0.0065 (+0.42%)
+Nasdaq 100: `27782.60` +335.50 (+1.22%)
+S&P 500: `7266.53` +59.08 (+0.82%)
+Gold: `4645.84` +23.41 (+0.51%)
+WTI Crude: `99.24` -3.83 (-3.72%)
+Brent Crude: `107.30` -2.82 (-2.56%)
+EUR/USD: `1.1766` +0.0035 (+0.30%)
+USD/JPY: `1.5672` +0.0011 (+0.07%)
 
 ## US Yields (FRED)
 **US 2Y**: 3.92% (+8bps) [FRED 2026-04-29]
@@ -21,48 +21,48 @@ USD/JPY: `1.5726` +0.0065 (+0.42%)
 **US 30Y**: 4.98% (+4bps) [FRED 2026-04-29]
 
 ## Equities
-COIN: `$187.77` (+5.68, +3.1%)
-    Vol: `7.8M` | 7d avg `9.8M` (-21%) | 30d avg `10.7M` (-28%)
-MSTR: `$165.45` (+6.10, +3.8%)
-    Vol: `12.3M` | 7d avg `18.6M` (-34%) | 30d avg `19.4M` (-36%)
-GLXY: `$27.44` (+1.63, +6.3%)
-    Vol: `7.6M` | 7d avg `5.5M` (+39%) | 30d avg `5.8M` (+33%)
-DFDV: `$4.39` (+0.33, +8.1%)
-    Vol: `396K` | 7d avg `585K` (-32%) | 30d avg `980K` (-60%)
-IBM: `$230.98` (+4.08, +1.8%)
-    Vol: `6.3M` | 7d avg `9.9M` (-37%) | 30d avg `5.9M` (+6%)
-MARA: `$11.99` (+1.30, +12.2%)
-    Vol: `82.8M` | 7d avg `40.2M` (+106%) | 30d avg `45.6M` (+82%)
-JPM: `$313.23` (+4.93, +1.6%)
-    Vol: `8.9M` | 7d avg `6.9M` (+29%) | 30d avg `9.5M` (-7%)
-MS: `$190.59` (+4.29, +2.3%)
-    Vol: `5.7M` | 7d avg `4.5M` (+26%) | 30d avg `6.5M` (-13%)
-EQNR: `$40.75` (+0.76, +1.9%)
-    Vol: `4.6M` | 7d avg `4.0M` (+15%) | 30d avg `8.2M` (-44%)
-FSLR: `$201.89` (+10.95, +5.7%)
-    Vol: `3.3M` | 7d avg `1.8M` (+77%) | 30d avg `1.9M` (+68%)
-SHEL: `$90.67` (+1.89, +2.1%)
-    Vol: `9.2M` | 7d avg `9.8M` (-6%) | 30d avg `8.6M` (+7%)
+COIN: `$193.89` (+5.97, +3.2%)
+    Vol: `3.2M` | 7d avg `8.7M` (-64%) | 30d avg `10.6M` (-70%)
+MSTR: `$177.21` (+11.66, +7.0%)
+    Vol: `8.8M` | 7d avg `17.2M` (-49%) | 30d avg `19.1M` (-54%)
+GLXY: `$28.85` (+1.03, +3.7%)
+    Vol: `3.3M` | 7d avg `5.8M` (-43%) | 30d avg `5.9M` (-44%)
+DFDV: `$4.59` (+0.29, +6.7%)
+    Vol: `261K` | 7d avg `555K` (-53%) | 30d avg `948K` (-72%)
+IBM: `$232.98` (+1.63, +0.7%)
+    Vol: `1.1M` | 7d avg `10.0M` (-89%) | 30d avg `6.0M` (-81%)
+MARA: `$11.97` (-0.03, -0.2%)
+    Vol: `21.6M` | 7d avg `46.1M` (-53%) | 30d avg `47.0M` (-54%)
+JPM: `$314.15` (+0.95, +0.3%)
+    Vol: `1.6M` | 7d avg `7.1M` (-77%) | 30d avg `9.4M` (-83%)
+MS: `$191.96` (+1.56, +0.8%)
+    Vol: `1.2M` | 7d avg `4.6M` (-73%) | 30d avg `6.4M` (-81%)
+EQNR: `$39.83` (-1.00, -2.4%)
+    Vol: `1.7M` | 7d avg `3.8M` (-56%) | 30d avg `8.0M` (-79%)
+FSLR: `$211.35` (+10.25, +5.1%)
+    Vol: `2.0M` | 7d avg `2.0M` (-1%) | 30d avg `2.0M` (+1%)
+SHEL: `$89.47` (-0.98, -1.1%)
+    Vol: `2.6M` | 7d avg `10.3M` (-75%) | 30d avg `8.7M` (-70%)
 
 ## Crypto
-BTC: `$77,016` (+2.1%)
-ETH: `$2,279` (+1.8%)
-SOL: `$83.80` (+1.7%)
-JUP: `$0.184` (+1.8%)
-MET: `$0.158` (+5.7%)
-GMT: `$0.011` (+1.2%)
+BTC: `$78,640` (+3.0%)
+ETH: `$2,313` (+2.2%)
+SOL: `$84.48` (+1.6%)
+JUP: `$0.181` (+1.2%)
+MET: `$0.159` (+3.0%)
+GMT: `$0.011` (+1.6%)
 
 ## Prediction Markets
   [Iran ceasefire] US x Iran permanent peace deal by...?
-    • June 30: 32%
-    • May 31: 18%
-    • May 15: 6%
-    vol $66M | closes 2026-05-31
+    • June 30: 38%
+    • May 31: 22%
+    • May 15: 8%
+    vol $67M | closes 2026-05-31
 
   [Trump announces end of military operations against Iran] Trump announces end of military operations against Iran by ...?
-    • June 30: 55%
-    • May 31: 38%
-    vol $41M | closes 2026-06-30
+    • June 30: 60%
+    • May 31: 34%
+    vol $42M | closes 2026-06-30
 
   [Strait of Hormuz traffic returns to normal] Strait of Hormuz traffic returns to normal by end of May?
     → 20% Yes | vol $4M | closes 2026-05-31
@@ -73,7 +73,7 @@ GMT: `$0.011` (+1.2%)
     • 2 (50 bps): 12%
     • 3 (75 bps): 6%
     • 4 (100 bps): 2%
-    • 5 (125 bps): 2%
+    • 5 (125 bps): 1%
     • 12+ (300+ bps): 1%
     vol $22M | closes 2026-12-31
 
@@ -82,7 +82,7 @@ GMT: `$0.011` (+1.2%)
     • 25 bps decrease: 3%
     • 25 bps increase: 1%
     • 50+ bps decrease: 1%
-    vol $14M | closes 2026-06-17
+    vol $15M | closes 2026-06-17
 
   [clarity act] Clarity Act signed into law in 2026?
-    → 46% Yes | vol $577K | closes 2027-01-01
+    → 46% Yes | vol $578K | closes 2027-01-01
