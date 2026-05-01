@@ -1,0 +1,31 @@
+# Watchlist
+
+## My Positions
+Coinbase (COIN), MicroStrategy (MSTR), Galaxy Digital (GLXY),
+DeFi Development Corp (DFDV), IBM, Marathon Digital (MARA),
+JPMorgan (JPM), Morgan Stanley (MS)
+
+## War Trades
+Equinor (EQNR), First Solar (FSLR), Shell (SHEL)
+
+## Crypto
+Bitcoin (BTC), Ethereum (ETH), Solana (SOL), Jupiter (JUP),
+Meteora (MET), STEPN (GMT)
+
+## Indices & Rates
+S&P 500, Nasdaq 100, US 10Y yield, US 30Y yield, US 2Y yield,
+DXY, JPY/USD, Gold, WTI crude, Brent crude
+
+## Earnings — always check these regardless of calendar services
+GLXY (Galaxy Digital) — reports quarterly, check specifically each run
+DFDV, COIN, MSTR, MARA — check specifically each run
+
+## Polymarket Keywords
+Iran ceasefire
+Trump announces end of military operations against Iran 
+US x Iran permanent peace
+Strait of Hormuz traffic returns to normal
+How many Fed rate cuts in 2026?
+Fed Decision in June?
+clarity act
+
