@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T08:59:02.028558+04:00",
+  "generated_at": "2026-05-01T08:59:22.454718+04:00",
   "data_date": "2026-04-30",
   "etf_flows": [
     {
@@ -69,8 +69,8 @@
   "macro_ig": {
     "Nasdaq 100": {
       "epic": "IX.D.NASDAQ.CASH.IP",
-      "mid": 27501.7,
-      "net_change": 54.6,
+      "mid": 27501.9,
+      "net_change": 54.8,
       "pct_change": 0.2,
       "status": "TRADEABLE",
       "scaling": 1,
@@ -79,8 +79,8 @@
     },
     "S&P 500": {
       "epic": "IX.D.SPTRD.DAILY.IP",
-      "mid": 7229.41,
-      "net_change": 21.95,
+      "mid": 7229.4,
+      "net_change": 21.94,
       "pct_change": 0.3,
       "status": "TRADEABLE",
       "scaling": 1,
@@ -89,8 +89,8 @@
     },
     "Gold": {
       "epic": "CS.D.USCGC.TODAY.IP",
-      "mid": 4611.055,
-      "net_change": -11.37,
+      "mid": 4611.035,
+      "net_change": -11.39,
       "pct_change": -0.25,
       "status": "TRADEABLE",
       "scaling": 1,
@@ -109,8 +109,8 @@
     },
     "Brent Crude": {
       "epic": "CC.D.LCO.USS.IP",
-      "mid": 11038.6,
-      "net_change": 26.8,
+      "mid": 11038.4,
+      "net_change": 26.6,
       "pct_change": 0.24,
       "status": "TRADEABLE",
       "scaling": 1,
@@ -129,8 +129,8 @@
     },
     "USD/JPY": {
       "epic": "CS.D.USDJPY.TODAY.IP",
-      "mid": 15726.75,
-      "net_change": 65.7,
+      "mid": 15726.2,
+      "net_change": 65.3,
       "pct_change": 0.42,
       "status": "TRADEABLE",
       "scaling": 1,
