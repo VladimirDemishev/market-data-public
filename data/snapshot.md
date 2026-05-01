@@ -1,19 +1,19 @@
 # Macro Snapshot — 2026-04-30
-_Generated: 2026-05-01 08:27 MRU_
+_Generated: 2026-05-01 08:59 MRU_
 
 ## ETF Flows
-**BTC**: flow $15M | 7d $95M | 30d $1.5B | AUM $100.5B
-**ETH**: flow -$24M | 7d -$73M | 30d -$25M | AUM $13.3B
+**BTC**: flow $15M | 7d $98M | 30d $1.7B | AUM $100.5B
+**ETH**: flow -$24M | 7d -$0.1B | 30d $7M | AUM $13.3B
 **SOL**: flow -$1M | 7d $5M | 30d $29M | AUM $0.8B
 
 ## Macro Prices (IG)
-Nasdaq 100: `27503.40` +56.30 (+0.21%)
-S&P 500: `7229.96` +22.51 (+0.31%)
-Gold: `4621.10` -1.32 (-0.03%)
-WTI Crude: `103.25` +0.18 (+0.17%)
-Brent Crude: `110.73` +0.61 (+0.55%)
-EUR/USD: `1.1727` -0.0003 (-0.03%)
-USD/JPY: `1.5717` +0.0056 (+0.36%)
+Nasdaq 100: `27501.70` +54.60 (+0.20%)
+S&P 500: `7229.41` +21.95 (+0.30%)
+Gold: `4611.06` -11.37 (-0.25%)
+WTI Crude: `102.96` -0.11 (-0.10%)
+Brent Crude: `110.39` +0.27 (+0.24%)
+EUR/USD: `1.1727` -0.0004 (-0.03%)
+USD/JPY: `1.5727` +0.0066 (+0.42%)
 
 ## US Yields (FRED)
 **US 2Y**: 3.92% (+8bps) [FRED 2026-04-29]
@@ -45,12 +45,12 @@ SHEL: `$90.67` (+1.89, +2.1%)
     Vol: `9.2M` | 7d avg `9.8M` (-6%) | 30d avg `8.6M` (+7%)
 
 ## Crypto
-BTC: `$77,124` (+1.9%)
-ETH: `$2,283` (+1.6%)
-SOL: `$83.94` (+1.5%)
-JUP: `$0.184` (+1.6%)
-MET: `$0.158` (+5.1%)
-GMT: `$0.011` (+0.6%)
+BTC: `$77,016` (+2.1%)
+ETH: `$2,279` (+1.8%)
+SOL: `$83.80` (+1.7%)
+JUP: `$0.184` (+1.8%)
+MET: `$0.158` (+5.7%)
+GMT: `$0.011` (+1.2%)
 
 ## Prediction Markets
   [Iran ceasefire] US x Iran permanent peace deal by...?
@@ -60,7 +60,7 @@ GMT: `$0.011` (+0.6%)
     vol $66M | closes 2026-05-31
 
   [Trump announces end of military operations against Iran] Trump announces end of military operations against Iran by ...?
-    • June 30: 56%
+    • June 30: 55%
     • May 31: 38%
     vol $41M | closes 2026-06-30
 
