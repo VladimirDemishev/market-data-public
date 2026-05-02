@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-01
-_Generated: 2026-05-02 14:30 MRU_
+_Generated: 2026-05-02 19:58 MRU_
 
 ## ETF Flows
 **BTC**: flow $0.6B | 7d $0.4B | 30d $2.4B | AUM $103.8B
@@ -45,22 +45,22 @@ SHEL: `$88.98` (-1.47, -1.6%)
     Vol: `6.4M` | 7d avg `10.4M` (-39%) | 30d avg `8.7M` (-27%)
 
 ## Crypto
-BTC: `$78,219` (+1.2%)
-ETH: `$2,304` (+1.0%)
-SOL: `$83.88` (-0.1%)
-JUP: `$0.178` (-1.4%)
-MET: `$0.160` (+2.5%)
-GMT: `$0.011` (-1.1%)
+BTC: `$78,463` (+0.0%)
+ETH: `$2,309` (+0.1%)
+SOL: `$84.02` (-0.4%)
+JUP: `$0.180` (-0.2%)
+MET: `$0.163` (+2.8%)
+GMT: `$0.011` (-1.7%)
 
 ## Prediction Markets
   [Iran ceasefire] US x Iran permanent peace deal by...?
     • June 30: 38%
-    • May 31: 24%
-    • May 15: 8%
+    • May 31: 22%
+    • May 15: 6%
     vol $68M | closes 2026-05-31
 
   [Strait of Hormuz traffic returns to normal] Strait of Hormuz traffic returns to normal by end of May?
-    → 20% Yes | vol $5M | closes 2026-05-31
+    → 18% Yes | vol $5M | closes 2026-05-31
 
   [How many Fed rate cuts in 2026?] How many Fed rate cuts in 2026?
     • 0 (0 bps): 56%
@@ -69,6 +69,7 @@ GMT: `$0.011` (-1.1%)
     • 3 (75 bps): 6%
     • 4 (100 bps): 2%
     • 5 (125 bps): 1%
+    • 6 (150 bps): 1%
     • 12+ (300+ bps): 1%
     vol $22M | closes 2026-12-31
 
@@ -79,4 +80,4 @@ GMT: `$0.011` (-1.1%)
     vol $16M | closes 2026-06-17
 
   [clarity act] Clarity Act signed into law in 2026?
-    → 67% Yes | vol $597K | closes 2027-01-01
+    → 61% Yes | vol $602K | closes 2027-01-01
