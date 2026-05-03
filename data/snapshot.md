@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-01
-_Generated: 2026-05-03 10:39 MRU_
+_Generated: 2026-05-03 10:47 MRU_
 
 ## ETF Flows
 **BTC**: flow $0.6B | 7d $0.4B | 30d $2.4B | AUM $103.8B
@@ -56,12 +56,12 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     7d avg `10.4M` (-39%) | 30d avg `8.7M` (-27%)
 
 ## Crypto
-🟡 BTC: `$78,141` (-0.1%)
-🟡 ETH: `$2,302` (+0.1%)
-🟡 SOL: `$83.65` (+0.1%)
-🟡 JUP: `$0.178` (+0.0%)
-🟢 MET: `$0.163` (+2.7%)
-🔴 GMT: `$0.011` (-1.9%)
+🟡 BTC: `$78,127` (-0.2%)
+🟡 ETH: `$2,301` (-0.0%)
+🟡 SOL: `$83.65` (+0.0%)
+🟡 JUP: `$0.178` (-0.0%)
+🟢 MET: `$0.164` (+2.8%)
+🔴 GMT: `$0.011` (-1.7%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
@@ -101,7 +101,7 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     → 14% Yes | vol $8M | closes 2026-12-31
 
   How many Fed rate cuts in 2026?
-    • 0 (0 bps): 56% (24h -0.5pp)
+    • 0 (0 bps): 56% (24h -0.8pp)
     • 1 (25 bps): 18%
     • 2 (50 bps): 12% (24h -1.0pp)
     vol $23M | closes 2026-12-31
@@ -114,7 +114,7 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
 
   What price will Bitcoin hit in 2026?
     • ↑ 100,000: 42% (24h +1.0pp)
-    • ↓ 45,000: 28% (24h -2.0pp)
+    • ↓ 45,000: 30% (24h -1.0pp)
     vol $35M | closes 2027-01-01
 
   Clarity Act signed into law in 2026?
