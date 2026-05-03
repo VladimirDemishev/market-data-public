@@ -1,5 +1,5 @@
-# Macro Snapshot — 2026-05-01
-_Generated: 2026-05-03 12:25 MRU_
+# Macro Snapshot — 2026-05-03
+_Generated: 2026-05-03 12:29 MRU_
 
 ## ETF Flows
 **BTC**: flow $0.6B | 7d $0.4B | 30d $2.4B | AUM $103.8B
@@ -56,12 +56,12 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     7d avg `10.4M` (-39%) | 30d avg `8.7M` (-27%)
 
 ## Crypto
-🟡 BTC: `$78,430` (+0.2%)
+🟡 BTC: `$78,424` (+0.2%)
 🟡 ETH: `$2,309` (+0.3%)
-🟡 SOL: `$83.90` (+0.2%)
-🟢 JUP: `$0.179` (+0.7%)
-🟢 MET: `$0.164` (+3.1%)
-🔴 GMT: `$0.011` (-1.0%)
+🟡 SOL: `$83.88` (+0.2%)
+🟢 JUP: `$0.179` (+0.6%)
+🟢 MET: `$0.164` (+3.0%)
+🔴 GMT: `$0.011` (-0.9%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
