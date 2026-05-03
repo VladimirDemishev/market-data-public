@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-01
-_Generated: 2026-05-03 10:33 MRU_
+_Generated: 2026-05-03 10:36 MRU_
 
 ## ETF Flows
 **BTC**: flow $0.6B | 7d $0.4B | 30d $2.4B | AUM $103.8B
@@ -56,17 +56,17 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     7d avg `10.4M` (-39%) | 30d avg `8.7M` (-27%)
 
 ## Crypto
-🟡 BTC: `$78,117` (-0.0%)
-🟡 ETH: `$2,301` (+0.1%)
-🟡 SOL: `$83.61` (+0.0%)
-🟡 JUP: `$0.178` (+0.1%)
+🟡 BTC: `$78,147` (-0.0%)
+🟡 ETH: `$2,302` (+0.1%)
+🟡 SOL: `$83.64` (+0.1%)
+🟡 JUP: `$0.178` (+0.0%)
 🟢 MET: `$0.163` (+2.4%)
 🔴 GMT: `$0.011` (-1.9%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
     • June 30: 36% (24h -2.0pp)
-    • May 31: 18% (24h -5.0pp)
+    • May 31: 18% (24h -6.0pp)
     vol $69M | closes 2026-05-31
 
   Strait of Hormuz traffic returns to normal by end of May?
@@ -83,9 +83,9 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
 
   Will Crude Oil (CL) hit__ by end of June?
     • ↑ $130: 31% (24h -1.5pp)
-    • ↑ $150: 12% (24h -1.0pp)
+    • ↑ $150: 13% (24h -0.5pp)
     • ↓ $60: 8%
-    vol $13M | closes 2026-06-30
+    vol $14M | closes 2026-06-30
 
   Which party will win the House in 2026?
     • Democratic Party: 84%
@@ -118,4 +118,4 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     vol $35M | closes 2027-01-01
 
   Clarity Act signed into law in 2026?
-    → 62% Yes (24h -7.0pp) | vol $606K | closes 2027-01-01
+    → 62% Yes (24h -5.0pp) | vol $606K | closes 2027-01-01
