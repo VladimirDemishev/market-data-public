@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-01
-_Generated: 2026-05-03 06:52 MRU_
+_Generated: 2026-05-03 10:22 MRU_
 
 ## ETF Flows
 **BTC**: flow $0.6B | 7d $0.4B | 30d $2.4B | AUM $103.8B
@@ -45,39 +45,66 @@ SHEL: `$88.98` (-1.47, -1.6%)
     Vol: `6.4M` | 7d avg `10.4M` (-39%) | 30d avg `8.7M` (-27%)
 
 ## Crypto
-BTC: `$78,147` (-0.4%)
-ETH: `$2,303` (-0.1%)
-SOL: `$83.66` (-0.4%)
-JUP: `$0.178` (-0.4%)
-MET: `$0.160` (+0.8%)
-GMT: `$0.011` (-1.8%)
+BTC: `$78,129` (-0.0%)
+ETH: `$2,301` (+0.1%)
+SOL: `$83.65` (+0.0%)
+JUP: `$0.179` (+0.3%)
+MET: `$0.163` (+2.4%)
+GMT: `$0.011` (-1.9%)
 
 ## Prediction Markets
-  [Iran ceasefire] US x Iran permanent peace deal by...?
-    • June 30: 36%
-    • May 31: 18%
-    • May 15: 4%
+  US x Iran permanent peace deal by...?
+    • June 30: 36% (24h -2.0pp)
+    • May 31: 18% (24h -5.0pp)
     vol $69M | closes 2026-05-31
 
-  [Strait of Hormuz traffic returns to normal] Strait of Hormuz traffic returns to normal by end of May?
-    → 18% Yes | vol $5M | closes 2026-05-31
+  Strait of Hormuz traffic returns to normal by end of May?
+    → 18% Yes (24h -2.0pp) | vol $5M | closes 2026-05-31
 
-  [How many Fed rate cuts in 2026?] How many Fed rate cuts in 2026?
-    • 0 (0 bps): 56%
+  Trump announces US blockade of Hormuz lifted by...?
+    → 26% Yes (24h -15.0pp) | vol $11M | closes 2026-04-30
+
+  Will the Iranian regime fall before 2027?
+    → 18% Yes | vol $16M | closes 2026-12-31
+
+  Will the U.S. invade Cuba in 2026?
+    → 26% Yes (24h +0.5pp) | vol $2M | closes 2026-12-31
+
+  Will Crude Oil (CL) hit__ by end of June?
+    • ↑ $130: 31% (24h -1.5pp)
+    • ↑ $150: 12% (24h -1.0pp)
+    • ↓ $60: 8%
+    vol $13M | closes 2026-06-30
+
+  Which party will win the House in 2026?
+    • Democratic Party: 84%
+    • Republican Party: 16%
+    vol $5M | closes 2026-11-03
+
+  Which party will win the Senate in 2026?
+    • Democratic Party: 50%
+    • Republican Party: 50%
+    vol $2M | closes 2026-11-03
+
+  Trump out as President before 2027?
+    → 14% Yes | vol $8M | closes 2026-12-31
+
+  How many Fed rate cuts in 2026?
+    • 0 (0 bps): 56% (24h -0.5pp)
     • 1 (25 bps): 18%
-    • 2 (50 bps): 12%
-    • 3 (75 bps): 6%
-    • 4 (100 bps): 2%
-    • 5 (125 bps): 1%
-    • 7 (175 bps): 1%
-    • 12+ (300+ bps): 1%
+    • 2 (50 bps): 12% (24h -1.0pp)
     vol $23M | closes 2026-12-31
 
-  [Fed Decision in June?] Fed Decision in June?
+  Fed Decision in June?
     • No change: 96%
-    • 25 bps decrease: 4%
+    • 25 bps decrease: 4% (24h -0.3pp)
     • 25 bps increase: 1%
     vol $16M | closes 2026-06-17
 
-  [clarity act] Clarity Act signed into law in 2026?
-    → 62% Yes | vol $606K | closes 2027-01-01
+  What price will Bitcoin hit in 2026?
+    • ↑ 100,000: 42% (24h +1.0pp)
+    • ↓ 45,000: 26% (24h -4.0pp)
+    vol $35M | closes 2027-01-01
+
+  Clarity Act signed into law in 2026?
+    → 62% Yes (24h -5.5pp) | vol $606K | closes 2027-01-01
