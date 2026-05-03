@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-01
-_Generated: 2026-05-03 12:19 MRU_
+_Generated: 2026-05-03 12:20 MRU_
 
 ## ETF Flows
 **BTC**: flow $0.6B | 7d $0.4B | 30d $2.4B | AUM $103.8B
