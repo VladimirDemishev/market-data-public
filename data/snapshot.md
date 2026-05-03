@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-01
-_Generated: 2026-05-03 12:22 MRU_
+_Generated: 2026-05-03 12:25 MRU_
 
 ## ETF Flows
 **BTC**: flow $0.6B | 7d $0.4B | 30d $2.4B | AUM $103.8B
@@ -56,10 +56,10 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     7d avg `10.4M` (-39%) | 30d avg `8.7M` (-27%)
 
 ## Crypto
-🟡 BTC: `$78,447` (+0.2%)
-🟡 ETH: `$2,310` (+0.4%)
-🟡 SOL: `$83.94` (+0.3%)
-🟢 JUP: `$0.179` (+0.8%)
+🟡 BTC: `$78,430` (+0.2%)
+🟡 ETH: `$2,309` (+0.3%)
+🟡 SOL: `$83.90` (+0.2%)
+🟢 JUP: `$0.179` (+0.7%)
 🟢 MET: `$0.164` (+3.1%)
 🔴 GMT: `$0.011` (-1.0%)
 
@@ -73,16 +73,17 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     → 18% Yes (24h -2.0pp) | vol $5M | closes 2026-05-31
 
   Trump announces US blockade of Hormuz lifted by...?
-    → 26% Yes (24h -14.0pp) | vol $11M | closes 2026-04-30
+    → 28% Yes (24h -13.0pp) | vol $11M | closes 2026-04-30
 
   Will the Iranian regime fall before 2027?
     → 18% Yes | vol $16M | closes 2026-12-31
 
   Will the U.S. invade Cuba in 2026?
-    → 28% Yes (24h +3.0pp) | vol $2M | closes 2026-12-31
+    → 27% Yes (24h +2.5pp) | vol $2M | closes 2026-12-31
 
   Will Crude Oil (CL) hit__ by end of June?
     • ↑ $130: 32% (24h +1.0pp)
+    • ↓ $70: 18% (24h -2.5pp)
     • ↑ $150: 14%
     • ↓ $60: 8%
     vol $14M | closes 2026-06-30
@@ -101,7 +102,7 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     → 14% Yes | vol $8M | closes 2026-12-31
 
   How many Fed rate cuts in 2026?
-    • 0 (0 bps): 56% (24h -1.1pp)
+    • 0 (0 bps): 56% (24h -0.9pp)
     • 1 (25 bps): 18%
     • 2 (50 bps): 12% (24h -1.0pp)
     vol $23M | closes 2026-12-31
