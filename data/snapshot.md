@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-01
-_Generated: 2026-05-03 11:35 MRU_
+_Generated: 2026-05-03 11:57 MRU_
 
 ## ETF Flows
 **BTC**: flow $0.6B | 7d $0.4B | 30d $2.4B | AUM $103.8B
@@ -56,17 +56,17 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     7d avg `10.4M` (-39%) | 30d avg `8.7M` (-27%)
 
 ## Crypto
-🟡 BTC: `$78,376` (+0.2%)
-🟡 ETH: `$2,311` (+0.4%)
-🟡 SOL: `$83.92` (+0.2%)
-🟡 JUP: `$0.179` (+0.4%)
-🟢 MET: `$0.164` (+2.8%)
+🟡 BTC: `$78,360` (+0.2%)
+🟡 ETH: `$2,309` (+0.4%)
+🟡 SOL: `$83.87` (+0.2%)
+🟡 JUP: `$0.179` (+0.3%)
+🟢 MET: `$0.164` (+3.2%)
 🔴 GMT: `$0.011` (-1.3%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
     • June 30: 36% (24h -1.0pp)
-    • May 31: 18% (24h -6.0pp)
+    • May 31: 18% (24h -5.0pp)
     vol $69M | closes 2026-05-31
 
   Strait of Hormuz traffic returns to normal by end of May?
@@ -82,7 +82,7 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     → 28% Yes (24h +3.0pp) | vol $2M | closes 2026-12-31
 
   Will Crude Oil (CL) hit__ by end of June?
-    • ↑ $130: 32% (24h -0.5pp)
+    • ↑ $130: 32% (24h +0.5pp)
     • ↑ $150: 14%
     • ↓ $60: 8%
     vol $14M | closes 2026-06-30
@@ -108,7 +108,7 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
 
   Fed Decision in June?
     • No change: 96%
-    • 25 bps decrease: 4% (24h -0.3pp)
+    • 25 bps decrease: 4% (24h -0.1pp)
     • 25 bps increase: 1%
     vol $16M | closes 2026-06-17
 
@@ -118,4 +118,4 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     vol $35M | closes 2027-01-01
 
   Clarity Act signed into law in 2026?
-    → 62% Yes (24h -4.0pp) | vol $606K | closes 2027-01-01
+    → 62% Yes (24h -2.5pp) | vol $606K | closes 2027-01-01
