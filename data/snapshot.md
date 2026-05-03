@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-01
-_Generated: 2026-05-03 11:57 MRU_
+_Generated: 2026-05-03 12:06 MRU_
 
 ## ETF Flows
 **BTC**: flow $0.6B | 7d $0.4B | 30d $2.4B | AUM $103.8B
@@ -56,12 +56,12 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     7d avg `10.4M` (-39%) | 30d avg `8.7M` (-27%)
 
 ## Crypto
-🟡 BTC: `$78,360` (+0.2%)
-🟡 ETH: `$2,309` (+0.4%)
-🟡 SOL: `$83.87` (+0.2%)
-🟡 JUP: `$0.179` (+0.3%)
-🟢 MET: `$0.164` (+3.2%)
-🔴 GMT: `$0.011` (-1.3%)
+🟡 BTC: `$78,423` (+0.3%)
+🟡 ETH: `$2,310` (+0.5%)
+🟡 SOL: `$83.93` (+0.3%)
+🟡 JUP: `$0.179` (+0.2%)
+🟢 MET: `$0.164` (+3.0%)
+🔴 GMT: `$0.011` (-1.2%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
@@ -82,7 +82,7 @@ USD/JPY: `1.5702` -0.0003 (-0.02%)
     → 28% Yes (24h +3.0pp) | vol $2M | closes 2026-12-31
 
   Will Crude Oil (CL) hit__ by end of June?
-    • ↑ $130: 32% (24h +0.5pp)
+    • ↑ $130: 32% (24h +1.0pp)
     • ↑ $150: 14%
     • ↓ $60: 8%
     vol $14M | closes 2026-06-30
