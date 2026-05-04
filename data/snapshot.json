@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T22:16:01.327055+04:00",
+  "generated_at": "2026-05-04T08:01:05.108222+04:00",
   "data_date": "2026-05-01",
   "etf_flows": [
     {
@@ -40,7 +40,7 @@
       "today_vol": 555892136.0,
       "avg7_vol": 541635920.0600001,
       "avg30_vol": 843392322.4096552,
-      "token_holdings": 5952553.72261389,
+      "token_holdings": 5952551.65108695,
       "total_net_assets": 13602725510.045,
       "pct_supply": 0.04932207
     },
@@ -61,24 +61,89 @@
       "today_vol": 23703627.0,
       "avg7_vol": 34046354.06,
       "avg30_vol": 36883918.557931036,
-      "token_holdings": 10275472.0448952,
+      "token_holdings": 10275466.85658636,
       "total_net_assets": 857722609.586,
       "pct_supply": 0.01782924
     }
   ],
-  "macro_ig": {},
+  "macro_ig": {
+    "Nasdaq 100": {
+      "epic": "IX.D.NASDAQ.CASH.IP",
+      "mid": 27814.2,
+      "net_change": 98.3,
+      "pct_change": 0.35,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "S&P 500": {
+      "epic": "IX.D.SPTRD.DAILY.IP",
+      "mid": 7239.37,
+      "net_change": 9.48,
+      "pct_change": 0.13,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "Gold": {
+      "epic": "CS.D.USCGC.TODAY.IP",
+      "mid": 4614.11,
+      "net_change": -0.2,
+      "pct_change": 0.0,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "WTI Crude": {
+      "epic": "CC.D.CL.USS.IP",
+      "mid": 9943.8,
+      "net_change": -31.2,
+      "pct_change": -0.31,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "Brent Crude": {
+      "epic": "CC.D.LCO.USS.IP",
+      "mid": 10730.7,
+      "net_change": -9.1,
+      "pct_change": -0.08,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "EUR/USD": {
+      "epic": "CS.D.EURUSD.TODAY.IP",
+      "mid": 11737.400000000001,
+      "net_change": 16.3,
+      "pct_change": 0.14,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "USD/JPY": {
+      "epic": "CS.D.USDJPY.TODAY.IP",
+      "mid": 15622.7,
+      "net_change": -81.7,
+      "pct_change": -0.52,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    }
+  },
   "yields_fred": {
     "US 2Y": {
       "yield": 3.88,
       "chg_bps": -4,
       "date": "2026-04-30",
       "display": "3.88% (-4bps) [FRED 2026-04-30]"
-    },
-    "US 10Y": {
-      "yield": 4.4,
-      "chg_bps": -2,
-      "date": "2026-04-30",
-      "display": "4.40% (-2bps) [FRED 2026-04-30]"
     },
     "US 30Y": {
       "yield": 4.98,
@@ -179,28 +244,28 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78643,
-      "chg_24h": 0.37555041286744834
+      "price": 80291,
+      "chg_24h": 2.7090854416411316
     },
     "ETH": {
-      "price": 2329.02,
-      "chg_24h": 0.9165798196527372
+      "price": 2384.46,
+      "chg_24h": 3.635206521692047
     },
     "SOL": {
-      "price": 84.13,
-      "chg_24h": 0.1269193166013977
+      "price": 85.38,
+      "chg_24h": 2.072960368859102
     },
     "JUP": {
-      "price": 0.176933,
-      "chg_24h": -1.2604887895074626
+      "price": 0.182076,
+      "chg_24h": 2.168164205052737
     },
     "MET": {
-      "price": 0.160306,
-      "chg_24h": 0.0051836377513908224
+      "price": 0.167627,
+      "chg_24h": 4.63805389067917
     },
     "GMT": {
-      "price": 0.01073257,
-      "chg_24h": -0.8208508375781493
+      "price": 0.0109317,
+      "chg_24h": 3.0673016385615925
     }
   },
   "polymarket": [
@@ -221,20 +286,20 @@
       "options": [
         {
           "label": "June 30",
-          "yes_pct": 37.5,
-          "chg_24h_pp": null,
-          "volume": 3689095.466272954,
+          "yes_pct": 38.5,
+          "chg_24h_pp": 1.0,
+          "volume": 3783495.3105629524,
           "end_date": "2026-05-31"
         },
         {
           "label": "May 31",
           "yes_pct": 18.5,
-          "chg_24h_pp": -3.0,
-          "volume": 10632916.979943091,
+          "chg_24h_pp": 1.0,
+          "volume": 10801465.189619092,
           "end_date": "2026-05-31"
         }
       ],
-      "volume": 69610167.18546133,
+      "volume": 70109800.58960234,
       "end_date": "2026-05-31",
       "slug": "357807"
     },
@@ -248,11 +313,11 @@
           "label": "Strait of Hormuz traffic returns to normal by end of May?",
           "yes_pct": 20.5,
           "chg_24h_pp": 2.0,
-          "volume": 5620902.294177946,
+          "volume": 6084250.533157892,
           "end_date": "2026-05-31"
         }
       ],
-      "volume": 5620791.044177946,
+      "volume": 6084250.533157892,
       "end_date": "2026-05-31",
       "slug": "329821"
     },
@@ -269,13 +334,13 @@
       "options": [
         {
           "label": "May 31",
-          "yes_pct": 29.5,
-          "chg_24h_pp": -4.0,
-          "volume": 1718764.521892995,
+          "yes_pct": 35.5,
+          "chg_24h_pp": 7.000000000000001,
+          "volume": 1845221.773213996,
           "end_date": "2026-05-31"
         }
       ],
-      "volume": 10938654.19852799,
+      "volume": 11387495.660274992,
       "end_date": "2026-04-30",
       "slug": "372242"
     },
@@ -289,11 +354,11 @@
           "label": "Will the Iranian regime fall before 2027?",
           "yes_pct": 18.5,
           "chg_24h_pp": null,
-          "volume": 16425100.5063945,
+          "volume": 16428604.924953502,
           "end_date": "2026-12-31"
         }
       ],
-      "volume": 16424389.470786499,
+      "volume": 16428604.924953502,
       "end_date": "2026-12-31",
       "slug": "72347"
     },
@@ -306,12 +371,12 @@
         {
           "label": "Will the U.S. invade Cuba in 2026?",
           "yes_pct": 24.5,
-          "chg_24h_pp": -4.0,
-          "volume": 1668391.090270033,
+          "chg_24h_pp": -3.0,
+          "volume": 1672112.2513060332,
           "end_date": "2026-12-31"
         }
       ],
-      "volume": 1668391.090270033,
+      "volume": 1672112.2513060332,
       "end_date": "2026-12-31",
       "slug": "143691"
     },
@@ -341,33 +406,33 @@
         {
           "label": "\u2191 $130",
           "yes_pct": 32.0,
-          "chg_24h_pp": -1.0,
-          "volume": 384702.1784100004,
+          "chg_24h_pp": 1.0,
+          "volume": 386817.9156420003,
           "end_date": "2026-06-30"
         },
         {
           "label": "\u2193 $70",
-          "yes_pct": 18.5,
-          "chg_24h_pp": null,
-          "volume": 280969.8492849997,
+          "yes_pct": 19.5,
+          "chg_24h_pp": 2.0,
+          "volume": 287351.3933839997,
           "end_date": "2026-06-30"
         },
         {
           "label": "\u2191 $150",
-          "yes_pct": 14.499999999999998,
-          "chg_24h_pp": 1.0,
-          "volume": 1835065.3627149956,
+          "yes_pct": 15.0,
+          "chg_24h_pp": 3.5000000000000004,
+          "volume": 1837874.1127119958,
           "end_date": "2026-06-30"
         },
         {
           "label": "\u2193 $60",
           "yes_pct": 7.5,
           "chg_24h_pp": null,
-          "volume": 254612.6948599999,
+          "volume": 254844.3748599999,
           "end_date": "2026-06-30"
         }
       ],
-      "volume": 13766536.250131002,
+      "volume": 13808347.709233,
       "end_date": "2026-06-30",
       "slug": "125877"
     },
@@ -390,18 +455,18 @@
           "label": "Democratic Party",
           "yes_pct": 84.5,
           "chg_24h_pp": null,
-          "volume": 2699750.9339599917,
+          "volume": 2715546.9376179916,
           "end_date": "2026-11-03"
         },
         {
           "label": "Republican Party",
           "yes_pct": 16.5,
           "chg_24h_pp": 1.0,
-          "volume": 2484168.715821982,
+          "volume": 2484827.754918982,
           "end_date": "2026-11-03"
         }
       ],
-      "volume": 5183919.649781974,
+      "volume": 5200374.692536973,
       "end_date": "2026-11-03",
       "slug": "32225"
     },
@@ -424,18 +489,18 @@
           "label": "Democratic Party",
           "yes_pct": 50.5,
           "chg_24h_pp": null,
-          "volume": 1223048.7224810054,
+          "volume": 1223953.6505160055,
           "end_date": "2026-11-03"
         },
         {
           "label": "Republican Party",
           "yes_pct": 49.5,
           "chg_24h_pp": null,
-          "volume": 1012136.6787310145,
+          "volume": 1012645.9087310146,
           "end_date": "2026-11-03"
         }
       ],
-      "volume": 2235185.40121202,
+      "volume": 2236599.55924702,
       "end_date": "2026-11-03",
       "slug": "32224"
     },
@@ -449,11 +514,11 @@
           "label": "Trump out as President before 2027?",
           "yes_pct": 13.5,
           "chg_24h_pp": null,
-          "volume": 8056723.567342243,
+          "volume": 8070912.548048244,
           "end_date": "2026-12-31"
         }
       ],
-      "volume": 8056723.567342243,
+      "volume": 8070912.548048244,
       "end_date": "2026-12-31",
       "slug": "73969"
     },
@@ -479,26 +544,26 @@
         {
           "label": "0 (0 bps)",
           "yes_pct": 55.55,
-          "chg_24h_pp": -0.8,
-          "volume": 3794517.4072900205,
+          "chg_24h_pp": -0.75,
+          "volume": 3796840.9052530206,
           "end_date": "2026-12-31"
         },
         {
           "label": "1 (25 bps)",
           "yes_pct": 16.5,
           "chg_24h_pp": -2.0,
-          "volume": 1148422.3787330058,
+          "volume": 1149437.7216660061,
           "end_date": "2026-12-31"
         },
         {
           "label": "2 (50 bps)",
           "yes_pct": 11.5,
           "chg_24h_pp": null,
-          "volume": 1108391.6440459976,
+          "volume": 1108550.4440419977,
           "end_date": "2026-12-31"
         }
       ],
-      "volume": 22713073.982394107,
+      "volume": 22814221.971973106,
       "end_date": "2026-12-31",
       "slug": "51456"
     },
@@ -512,25 +577,25 @@
           "label": "No change",
           "yes_pct": 95.5,
           "chg_24h_pp": null,
-          "volume": 2876679.2402900113,
+          "volume": 2906495.274540011,
           "end_date": "2026-06-17"
         },
         {
           "label": "25 bps decrease",
           "yes_pct": 3.65,
-          "chg_24h_pp": -0.2,
-          "volume": 2588882.633352976,
+          "chg_24h_pp": -0.1,
+          "volume": 2646255.9858189723,
           "end_date": "2026-06-17"
         },
         {
           "label": "25 bps increase",
           "yes_pct": 1.15,
           "chg_24h_pp": 0.4,
-          "volume": 2959231.988026,
+          "volume": 2996261.895082,
           "end_date": "2026-06-17"
         }
       ],
-      "volume": 16517887.14141998,
+      "volume": 16775972.068187974,
       "end_date": "2026-06-17",
       "slug": "101772"
     },
@@ -551,20 +616,20 @@
       "options": [
         {
           "label": "\u2191 100,000",
-          "yes_pct": 42.5,
+          "yes_pct": 43.5,
           "chg_24h_pp": 2.0,
-          "volume": 1399402.9414410007,
+          "volume": 1402816.806138001,
           "end_date": "2027-01-01"
         },
         {
           "label": "\u2193 45,000",
-          "yes_pct": 29.5,
-          "chg_24h_pp": -1.0,
-          "volume": 2194290.7256010002,
+          "yes_pct": 28.499999999999996,
+          "chg_24h_pp": 2.0,
+          "volume": 2196411.645372,
           "end_date": "2027-01-01"
         }
       ],
-      "volume": 34723148.16265785,
+      "volume": 34815067.87812785,
       "end_date": "2027-01-01",
       "slug": "89502"
     },
@@ -576,13 +641,13 @@
       "options": [
         {
           "label": "Clarity Act signed into law in 2026?",
-          "yes_pct": 61.5,
-          "chg_24h_pp": -0.5,
-          "volume": 606627.5209509963,
+          "yes_pct": 64.0,
+          "chg_24h_pp": 2.0,
+          "volume": 607163.7550979963,
           "end_date": "2027-01-01"
         }
       ],
-      "volume": 606627.5209509963,
+      "volume": 607163.7550979963,
       "end_date": "2027-01-01",
       "slug": "158505"
     }
