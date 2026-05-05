@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-05T09:01:23.993111+04:00",
+  "generated_at": "2026-05-05T09:17:26.730311+04:00",
   "data_date": "2026-05-04",
-  "us_market": "closed, 8h 28m until open",
+  "us_market": "closed, 8h 12m until open",
   "etf_flows": [
     {
       "name": "BTC",
@@ -73,9 +73,9 @@
   "macro_ig": {
     "Nasdaq 100": {
       "epic": "IX.D.NASDAQ.CASH.IP",
-      "mid": 27707.9,
-      "net_change": 50.7,
-      "pct_change": 0.18,
+      "mid": 27724.4,
+      "net_change": 67.3,
+      "pct_change": 0.24,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -83,9 +83,9 @@
     },
     "S&P 500": {
       "epic": "IX.D.SPTRD.DAILY.IP",
-      "mid": 7212.16,
-      "net_change": 8.89,
-      "pct_change": 0.12,
+      "mid": 7214.78,
+      "net_change": 11.49,
+      "pct_change": 0.16,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -93,9 +93,9 @@
     },
     "Gold": {
       "epic": "CS.D.USCGC.TODAY.IP",
-      "mid": 4531.96,
-      "net_change": 9.52,
-      "pct_change": 0.21,
+      "mid": 4539.43,
+      "net_change": 16.99,
+      "pct_change": 0.38,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -103,9 +103,9 @@
     },
     "WTI Crude": {
       "epic": "CC.D.CL.USS.IP",
-      "mid": 10189.0,
-      "net_change": -197.0,
-      "pct_change": -1.9,
+      "mid": 10198.4,
+      "net_change": -187.6,
+      "pct_change": -1.81,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -113,9 +113,9 @@
     },
     "Brent Crude": {
       "epic": "CC.D.LCO.USS.IP",
-      "mid": 11178.5,
-      "net_change": -119.9,
-      "pct_change": -1.06,
+      "mid": 11183.3,
+      "net_change": -115.1,
+      "pct_change": -1.02,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -123,9 +123,9 @@
     },
     "EUR/USD": {
       "epic": "CS.D.EURUSD.TODAY.IP",
-      "mid": 11677.05,
-      "net_change": -14.0,
-      "pct_change": -0.12,
+      "mid": 11678.900000000001,
+      "net_change": -12.2,
+      "pct_change": -0.1,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -133,9 +133,39 @@
     },
     "USD/JPY": {
       "epic": "CS.D.USDJPY.TODAY.IP",
-      "mid": 15728.65,
+      "mid": 15727.9,
+      "net_change": 5.4,
+      "pct_change": 0.03,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "US 2Y T-Note": {
+      "epic": "IR.D.02YEAR100.Month2.IP",
+      "mid": 10343.6,
+      "net_change": 1.6,
+      "pct_change": 0.02,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "US 10Y T-Note": {
+      "epic": "IR.D.10YEAR100.Month2.IP",
+      "mid": 11024.2,
       "net_change": 6.2,
-      "pct_change": 0.04,
+      "pct_change": 0.06,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "US 30Y T-Bond": {
+      "epic": "IR.D.BOND100.Month2.IP",
+      "mid": 11232.8,
+      "net_change": 15.6,
+      "pct_change": 0.14,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -287,28 +317,28 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80861,
-      "chg_24h": 0.6960313215519727
+      "price": 80895,
+      "chg_24h": 0.9876994932067213
     },
     "ETH": {
-      "price": 2379.49,
-      "chg_24h": -0.3948031841990525
+      "price": 2379.33,
+      "chg_24h": -0.13978051290699647
     },
     "SOL": {
-      "price": 84.74,
-      "chg_24h": -1.0944084672217453
+      "price": 84.84,
+      "chg_24h": -0.9088286561742389
     },
     "JUP": {
-      "price": 0.181824,
-      "chg_24h": -0.3617573911596119
+      "price": 0.183324,
+      "chg_24h": 1.1291283915917938
     },
     "MET": {
-      "price": 0.16747,
-      "chg_24h": -0.7676228713114829
+      "price": 0.167565,
+      "chg_24h": -0.24949552167050604
     },
     "GMT": {
-      "price": 0.01069485,
-      "chg_24h": -2.342067086594259
+      "price": 0.01076635,
+      "chg_24h": -1.2575876428347073
     }
   },
   "polymarket": [
@@ -331,18 +361,18 @@
           "label": "June 30",
           "yes_pct": 32.5,
           "chg_24h_pp": -6.0,
-          "volume": 4008088.369018941,
+          "volume": 4008142.2896229415,
           "end_date": "2026-05-31"
         },
         {
           "label": "May 31",
           "yes_pct": 12.5,
           "chg_24h_pp": -6.0,
-          "volume": 11367277.888475098,
+          "volume": 11369777.698047098,
           "end_date": "2026-05-31"
         }
       ],
-      "volume": 71638978.08989432,
+      "volume": 71668797.74535233,
       "end_date": "2026-12-31",
       "slug": "357807"
     },
@@ -356,11 +386,11 @@
           "label": "Strait of Hormuz traffic returns to normal by end of May?",
           "yes_pct": 15.5,
           "chg_24h_pp": -5.0,
-          "volume": 6685816.3049308965,
+          "volume": 6691236.301396896,
           "end_date": "2026-05-31"
         }
       ],
-      "volume": 6685766.3049308965,
+      "volume": 6691236.301396896,
       "end_date": "2026-05-31",
       "slug": "329821"
     },
@@ -378,12 +408,12 @@
         {
           "label": "May 31",
           "yes_pct": 27.500000000000004,
-          "chg_24h_pp": -8.0,
-          "volume": 1949742.1145619964,
+          "chg_24h_pp": -7.000000000000001,
+          "volume": 1950442.1145619964,
           "end_date": "2026-05-31"
         }
       ],
-      "volume": 12028252.630115991,
+      "volume": 12029713.000977993,
       "end_date": "2026-06-30",
       "slug": "372242"
     },
@@ -419,7 +449,7 @@
           "end_date": "2026-12-31"
         }
       ],
-      "volume": 1680529.442343033,
+      "volume": 1680609.442343033,
       "end_date": "2026-12-31",
       "slug": "143691"
     },
@@ -449,7 +479,7 @@
         {
           "label": "\u2191 $130",
           "yes_pct": 38.5,
-          "chg_24h_pp": 6.5,
+          "chg_24h_pp": 5.0,
           "volume": 397893.2547020004,
           "end_date": "2026-06-30"
         },
@@ -463,7 +493,7 @@
         {
           "label": "\u2191 $150",
           "yes_pct": 14.499999999999998,
-          "chg_24h_pp": -1.0,
+          "chg_24h_pp": -2.0,
           "volume": 1853988.5941919954,
           "end_date": "2026-06-30"
         },
@@ -475,7 +505,7 @@
           "end_date": "2026-06-30"
         }
       ],
-      "volume": 14030506.739817,
+      "volume": 14030625.939817,
       "end_date": "2026-06-30",
       "slug": "125877"
     },
@@ -539,11 +569,11 @@
           "label": "Republican Party",
           "yes_pct": 49.5,
           "chg_24h_pp": null,
-          "volume": 1018624.3487310144,
+          "volume": 1018661.7565730144,
           "end_date": "2026-11-03"
         }
       ],
-      "volume": 2249293.2988410206,
+      "volume": 2249330.7066830206,
       "end_date": "2026-11-03",
       "slug": "32224"
     },
@@ -557,11 +587,11 @@
           "label": "Trump out as President before 2027?",
           "yes_pct": 13.5,
           "chg_24h_pp": null,
-          "volume": 8089646.61515425,
+          "volume": 8089647.7451542495,
           "end_date": "2026-12-31"
         }
       ],
-      "volume": 8089646.61515425,
+      "volume": 8089647.7451542495,
       "end_date": "2026-12-31",
       "slug": "73969"
     },
@@ -588,25 +618,25 @@
           "label": "0 (0 bps)",
           "yes_pct": 58.8,
           "chg_24h_pp": 3.25,
-          "volume": 3869594.4104340184,
+          "volume": 3869627.056384018,
           "end_date": "2026-12-31"
         },
         {
           "label": "1 (25 bps)",
           "yes_pct": 18.5,
           "chg_24h_pp": 2.0,
-          "volume": 1156868.8827280065,
+          "volume": 1156874.7627280063,
           "end_date": "2026-12-31"
         },
         {
           "label": "2 (50 bps)",
-          "yes_pct": 11.5,
-          "chg_24h_pp": null,
+          "yes_pct": 11.0,
+          "chg_24h_pp": -0.5,
           "volume": 1122915.019498998,
           "end_date": "2026-12-31"
         }
       ],
-      "volume": 23161226.936430108,
+      "volume": 23171112.196921106,
       "end_date": "2026-12-31",
       "slug": "51456"
     },
@@ -620,25 +650,25 @@
           "label": "No change",
           "yes_pct": 95.5,
           "chg_24h_pp": null,
-          "volume": 2960972.256237008,
+          "volume": 2973363.157902008,
           "end_date": "2026-06-17"
         },
         {
           "label": "25 bps decrease",
           "yes_pct": 2.45,
           "chg_24h_pp": -1.2,
-          "volume": 3054156.1454339745,
+          "volume": 3054208.5854339744,
           "end_date": "2026-06-17"
         },
         {
           "label": "25 bps increase",
           "yes_pct": 1.05,
           "chg_24h_pp": -0.1,
-          "volume": 3081940.469266004,
+          "volume": 3081947.014666004,
           "end_date": "2026-06-17"
         }
       ],
-      "volume": 17729155.394161973,
+      "volume": 17743645.656226974,
       "end_date": "2026-06-17",
       "slug": "101772"
     },
@@ -660,7 +690,7 @@
         {
           "label": "\u2191 100,000",
           "yes_pct": 44.5,
-          "chg_24h_pp": 1.0,
+          "chg_24h_pp": 2.0,
           "volume": 1419406.4281610008,
           "end_date": "2027-01-01"
         },
@@ -672,7 +702,7 @@
           "end_date": "2027-01-01"
         }
       ],
-      "volume": 34981030.61075085,
+      "volume": 34982772.52387985,
       "end_date": "2027-01-01",
       "slug": "89502"
     },
@@ -685,8 +715,8 @@
         {
           "label": "Clarity Act signed into law in 2026?",
           "yes_pct": 69.5,
-          "chg_24h_pp": 6.5,
-          "volume": 615680.2029099964,
+          "chg_24h_pp": 8.5,
+          "volume": 615687.2451609963,
           "end_date": "2027-01-01"
         }
       ],
