@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-05T08:54:20.569478+04:00",
+  "generated_at": "2026-05-05T09:01:23.993111+04:00",
   "data_date": "2026-05-04",
-  "us_market": "closed, 8h 35m until open",
+  "us_market": "closed, 8h 28m until open",
   "etf_flows": [
     {
       "name": "BTC",
@@ -73,9 +73,9 @@
   "macro_ig": {
     "Nasdaq 100": {
       "epic": "IX.D.NASDAQ.CASH.IP",
-      "mid": 27730.1,
-      "net_change": 72.9,
-      "pct_change": 0.26,
+      "mid": 27707.9,
+      "net_change": 50.7,
+      "pct_change": 0.18,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -83,9 +83,9 @@
     },
     "S&P 500": {
       "epic": "IX.D.SPTRD.DAILY.IP",
-      "mid": 7216.110000000001,
-      "net_change": 12.83,
-      "pct_change": 0.18,
+      "mid": 7212.16,
+      "net_change": 8.89,
+      "pct_change": 0.12,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -93,9 +93,9 @@
     },
     "Gold": {
       "epic": "CS.D.USCGC.TODAY.IP",
-      "mid": 4536.34,
-      "net_change": 13.91,
-      "pct_change": 0.31,
+      "mid": 4531.96,
+      "net_change": 9.52,
+      "pct_change": 0.21,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -103,9 +103,9 @@
     },
     "WTI Crude": {
       "epic": "CC.D.CL.USS.IP",
-      "mid": 10178.2,
-      "net_change": -207.8,
-      "pct_change": -2.0,
+      "mid": 10189.0,
+      "net_change": -197.0,
+      "pct_change": -1.9,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -113,9 +113,9 @@
     },
     "Brent Crude": {
       "epic": "CC.D.LCO.USS.IP",
-      "mid": 11164.1,
-      "net_change": -134.3,
-      "pct_change": -1.19,
+      "mid": 11178.5,
+      "net_change": -119.9,
+      "pct_change": -1.06,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -123,9 +123,9 @@
     },
     "EUR/USD": {
       "epic": "CS.D.EURUSD.TODAY.IP",
-      "mid": 11683.8,
-      "net_change": -7.3,
-      "pct_change": -0.06,
+      "mid": 11677.05,
+      "net_change": -14.0,
+      "pct_change": -0.12,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -133,9 +133,9 @@
     },
     "USD/JPY": {
       "epic": "CS.D.USDJPY.TODAY.IP",
-      "mid": 15725.8,
-      "net_change": 3.3,
-      "pct_change": 0.02,
+      "mid": 15728.65,
+      "net_change": 6.2,
+      "pct_change": 0.04,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -287,28 +287,28 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80910,
-      "chg_24h": 0.7627265321773703
+      "price": 80861,
+      "chg_24h": 0.6960313215519727
     },
     "ETH": {
-      "price": 2381.58,
-      "chg_24h": -0.485542962475211
+      "price": 2379.49,
+      "chg_24h": -0.3948031841990525
     },
     "SOL": {
-      "price": 84.79,
-      "chg_24h": -1.190601361580785
+      "price": 84.74,
+      "chg_24h": -1.0944084672217453
     },
     "JUP": {
-      "price": 0.182056,
-      "chg_24h": -0.3244457689543755
+      "price": 0.181824,
+      "chg_24h": -0.3617573911596119
     },
     "MET": {
-      "price": 0.167729,
-      "chg_24h": -0.8026868117500613
+      "price": 0.16747,
+      "chg_24h": -0.7676228713114829
     },
     "GMT": {
-      "price": 0.01070663,
-      "chg_24h": -2.342531988612673
+      "price": 0.01069485,
+      "chg_24h": -2.342067086594259
     }
   },
   "polymarket": [
@@ -338,11 +338,11 @@
           "label": "May 31",
           "yes_pct": 12.5,
           "chg_24h_pp": -6.0,
-          "volume": 11341264.683621097,
+          "volume": 11367277.888475098,
           "end_date": "2026-05-31"
         }
       ],
-      "volume": 71637699.91989432,
+      "volume": 71638978.08989432,
       "end_date": "2026-12-31",
       "slug": "357807"
     },
@@ -356,11 +356,11 @@
           "label": "Strait of Hormuz traffic returns to normal by end of May?",
           "yes_pct": 15.5,
           "chg_24h_pp": -5.0,
-          "volume": 6685766.3049308965,
+          "volume": 6685816.3049308965,
           "end_date": "2026-05-31"
         }
       ],
-      "volume": 6685671.814930896,
+      "volume": 6685766.3049308965,
       "end_date": "2026-05-31",
       "slug": "329821"
     },
@@ -383,7 +383,7 @@
           "end_date": "2026-05-31"
         }
       ],
-      "volume": 12017416.006447993,
+      "volume": 12028252.630115991,
       "end_date": "2026-06-30",
       "slug": "372242"
     },
@@ -415,7 +415,7 @@
           "label": "Will the U.S. invade Cuba in 2026?",
           "yes_pct": 24.5,
           "chg_24h_pp": null,
-          "volume": 1680529.442343033,
+          "volume": 1680609.442343033,
           "end_date": "2026-12-31"
         }
       ],
@@ -462,9 +462,9 @@
         },
         {
           "label": "\u2191 $150",
-          "yes_pct": 15.5,
-          "chg_24h_pp": null,
-          "volume": 1853869.3941919955,
+          "yes_pct": 14.499999999999998,
+          "chg_24h_pp": -1.0,
+          "volume": 1853988.5941919954,
           "end_date": "2026-06-30"
         },
         {
@@ -543,7 +543,7 @@
           "end_date": "2026-11-03"
         }
       ],
-      "volume": 2249280.4988410203,
+      "volume": 2249293.2988410206,
       "end_date": "2026-11-03",
       "slug": "32224"
     },
@@ -561,7 +561,7 @@
           "end_date": "2026-12-31"
         }
       ],
-      "volume": 8086112.14515425,
+      "volume": 8089646.61515425,
       "end_date": "2026-12-31",
       "slug": "73969"
     },
@@ -606,7 +606,7 @@
           "end_date": "2026-12-31"
         }
       ],
-      "volume": 23160769.283680107,
+      "volume": 23161226.936430108,
       "end_date": "2026-12-31",
       "slug": "51456"
     },
@@ -627,18 +627,18 @@
           "label": "25 bps decrease",
           "yes_pct": 2.45,
           "chg_24h_pp": -1.2,
-          "volume": 3054004.505433975,
+          "volume": 3054156.1454339745,
           "end_date": "2026-06-17"
         },
         {
           "label": "25 bps increase",
           "yes_pct": 1.05,
           "chg_24h_pp": -0.1,
-          "volume": 3081740.469266004,
+          "volume": 3081940.469266004,
           "end_date": "2026-06-17"
         }
       ],
-      "volume": 17724198.886830974,
+      "volume": 17729155.394161973,
       "end_date": "2026-06-17",
       "slug": "101772"
     },
@@ -661,7 +661,7 @@
           "label": "\u2191 100,000",
           "yes_pct": 44.5,
           "chg_24h_pp": 1.0,
-          "volume": 1419184.205940001,
+          "volume": 1419406.4281610008,
           "end_date": "2027-01-01"
         },
         {
@@ -672,7 +672,7 @@
           "end_date": "2027-01-01"
         }
       ],
-      "volume": 34980786.50075085,
+      "volume": 34981030.61075085,
       "end_date": "2027-01-01",
       "slug": "89502"
     },
