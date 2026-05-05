@@ -1,11 +1,11 @@
 # Macro Snapshot — 2026-05-05
-_Generated: 2026-05-05 08:19 MRU_
+_Generated: 2026-05-05 08:45 MRU — US market: closed, 8h 44m until open_
 
 ## ETF Flows
 **BTC**:
-  Flow: $0.2B | 7d $0.4B | 30d $2.4B
-  Vol: $3.6B | 7d avg $1.8B (+98%) | 30d avg $2.4B (+47%)
-  AUM: $104.8B | Holdings: 1,332,226 BTC (6.65% supply)
+  Flow: $0.5B | 7d $0.7B | 30d $3.0B
+  Vol: $3.6B | 7d avg $1.9B (+90%) | 30d avg $2.5B (+47%)
+  AUM: $106.4B | Holdings: 1,331,507 BTC (6.65% supply)
 **ETH**:
   Flow: $61M | 7d -$0.1B | 30d $0.2B
   Vol: $0.6B | 7d avg $0.5B (+17%) | 30d avg $0.8B (-25%)
@@ -13,16 +13,16 @@ _Generated: 2026-05-05 08:19 MRU_
 **SOL**:
   Flow: $3M | 7d $865K | 30d $32M
   Vol: $37M | 7d avg $30M (+22%) | 30d avg $36M (+1%)
-  AUM: $0.9B | Holdings: 10,313,298 SOL (1.79% supply)
+  AUM: $0.9B | Holdings: 10,313,297 SOL (1.79% supply)
 
 ## Macro Prices (IG)
-Nasdaq 100: `27725.80` +68.60 (+0.25%)
-S&P 500: `7213.96` +10.68 (+0.15%)
-Gold: `4531.18` +8.74 (+0.19%)
-WTI Crude: `102.01` -1.85 (-1.78%)
-Brent Crude: `111.83` -1.16 (-1.02%)
-EUR/USD: `1.1687` -0.0005 (-0.04%)
-USD/JPY: `1.5725` +0.0003 (+0.02%)
+Nasdaq 100: `27719.60` +62.40 (+0.23%)
+S&P 500: `7214.01` +10.73 (+0.15%)
+Gold: `4531.69` +9.25 (+0.20%)
+WTI Crude: `101.54` -2.32 (-2.23%)
+Brent Crude: `111.40` -1.58 (-1.40%)
+EUR/USD: `1.1684` -0.0007 (-0.06%)
+USD/JPY: `1.5726` +0.0004 (+0.02%)
 
 ## US Yields (FRED)
 **US 2Y**: 3.88% (+0bps) [FRED 2026-05-01]
@@ -65,12 +65,12 @@ USD/JPY: `1.5725` +0.0003 (+0.02%)
     7d avg `10.8M` (-23%) | 30d avg `8.5M` (-2%)
 
 ## Crypto
-🟡 BTC: `$80,838` (+0.4%)
-🟡 ETH: `$2,382` (-0.3%)
-🔴 SOL: `$84.71` (-1.0%)
-🟡 JUP: `$0.182` (-0.1%)
-🟡 MET: `$0.168` (-0.0%)
-🔴 GMT: `$0.011` (-2.6%)
+🟢 BTC: `$80,754` (+0.5%)
+🔴 ETH: `$2,379` (-0.6%)
+🔴 SOL: `$84.64` (-1.4%)
+🔴 JUP: `$0.182` (-0.5%)
+🔴 MET: `$0.168` (-1.2%)
+🔴 GMT: `$0.011` (-2.8%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
@@ -91,7 +91,7 @@ USD/JPY: `1.5725` +0.0003 (+0.02%)
     → 24% Yes | vol $2M | closes 2026-12-31
 
   Will Crude Oil (CL) hit__ by end of June?
-    • ↑ $130: 39% (24h +7.0pp)
+    • ↑ $130: 38% (24h +6.5pp)
     • ↓ $70: 20%
     • ↑ $150: 16%
     • ↓ $60: 8%
@@ -113,7 +113,7 @@ USD/JPY: `1.5725` +0.0003 (+0.02%)
   How many Fed rate cuts in 2026?
     • 0 (0 bps): 59% (24h +3.2pp)
     • 1 (25 bps): 18% (24h +2.0pp)
-    • 2 (50 bps): 12%
+    • 2 (50 bps): 11% (24h -0.5pp)
     vol $23M | closes 2026-12-31
 
   Fed Decision in June?
@@ -128,4 +128,4 @@ USD/JPY: `1.5725` +0.0003 (+0.02%)
     vol $35M | closes 2027-01-01
 
   Clarity Act signed into law in 2026?
-    → 70% Yes (24h +6.5pp) | vol $616K | closes 2027-01-01
+    → 70% Yes (24h +7.0pp) | vol $616K | closes 2027-01-01
