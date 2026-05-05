@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-05
-_Generated: 2026-05-05 06:02 MRU_
+_Generated: 2026-05-05 07:59 MRU_
 
 ## ETF Flows
 **BTC**: flow $0.2B | 7d $0.4B | 30d $2.4B | AUM $104.8B
@@ -7,13 +7,13 @@ _Generated: 2026-05-05 06:02 MRU_
 **SOL**: flow $3M | 7d $865K | 30d $32M | AUM $0.9B
 
 ## Macro Prices (IG)
-Nasdaq 100: `27707.90` +50.70 (+0.18%)
-S&P 500: `7210.33` +7.05 (+0.10%)
-Gold: `4542.15` +19.71 (+0.44%)
-WTI Crude: `102.02` -1.84 (-1.77%)
-Brent Crude: `111.85` -1.13 (-1.00%)
-EUR/USD: `1.1688` -0.0003 (-0.03%)
-USD/JPY: `1.5720` -0.0002 (-0.01%)
+Nasdaq 100: `27723.80` +66.60 (+0.24%)
+S&P 500: `7213.89` +10.61 (+0.15%)
+Gold: `4535.34` +12.91 (+0.29%)
+WTI Crude: `102.00` -1.86 (-1.79%)
+Brent Crude: `111.82` -1.16 (-1.03%)
+EUR/USD: `1.1684` -0.0007 (-0.06%)
+USD/JPY: `1.5726` +0.0003 (+0.02%)
 
 ## US Yields (FRED)
 **US 2Y**: 3.88% (+0bps) [FRED 2026-05-01]
@@ -56,24 +56,24 @@ USD/JPY: `1.5720` -0.0002 (-0.01%)
     7d avg `10.8M` (-26%) | 30d avg `8.5M` (-6%)
 
 ## Crypto
-🟢 BTC: `$80,308` (+0.8%)
-🟡 ETH: `$2,360` (+0.4%)
-🔴 SOL: `$84.37` (-0.6%)
-🟢 JUP: `$0.181` (+0.7%)
-🟢 MET: `$0.168` (+0.7%)
-🔴 GMT: `$0.011` (-1.3%)
+🟢 BTC: `$80,859` (+0.8%)
+🟡 ETH: `$2,382` (-0.1%)
+🔴 SOL: `$84.73` (-0.7%)
+🟡 JUP: `$0.182` (-0.2%)
+🟡 MET: `$0.168` (+0.4%)
+🔴 GMT: `$0.011` (-1.9%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
-    • June 30: 34% (24h -5.0pp)
-    • May 31: 14% (24h -6.0pp)
+    • June 30: 32% (24h -6.0pp)
+    • May 31: 12% (24h -6.0pp)
     vol $72M | closes 2026-12-31
 
   Strait of Hormuz traffic returns to normal by end of May?
     → 16% Yes (24h -5.0pp) | vol $7M | closes 2026-05-31
 
   Trump announces US blockade of Hormuz lifted by...?
-    → 27% Yes (24h -8.5pp) | vol $12M | closes 2026-06-30
+    → 28% Yes (24h -8.0pp) | vol $12M | closes 2026-06-30
 
   Will the Iranian regime fall before 2027?
     → 18% Yes | vol $17M | closes 2026-12-31
@@ -83,7 +83,7 @@ USD/JPY: `1.5720` -0.0002 (-0.01%)
 
   Will Crude Oil (CL) hit__ by end of June?
     • ↑ $130: 39% (24h +7.0pp)
-    • ↓ $70: 20% (24h +0.5pp)
+    • ↓ $70: 20%
     • ↑ $150: 16% (24h +0.5pp)
     • ↓ $60: 8%
     vol $14M | closes 2026-06-30
@@ -103,7 +103,7 @@ USD/JPY: `1.5720` -0.0002 (-0.01%)
 
   How many Fed rate cuts in 2026?
     • 0 (0 bps): 59% (24h +3.0pp)
-    • 1 (25 bps): 18% (24h +1.0pp)
+    • 1 (25 bps): 18% (24h +2.0pp)
     • 2 (50 bps): 12%
     vol $23M | closes 2026-12-31
 
@@ -114,9 +114,9 @@ USD/JPY: `1.5720` -0.0002 (-0.01%)
     vol $18M | closes 2026-06-17
 
   What price will Bitcoin hit in 2026?
-    • ↑ 100,000: 44% (24h +1.5pp)
+    • ↑ 100,000: 44% (24h +1.0pp)
     • ↓ 45,000: 28% (24h -1.0pp)
     vol $35M | closes 2027-01-01
 
   Clarity Act signed into law in 2026?
-    → 69% Yes (24h +7.0pp) | vol $612K | closes 2027-01-01
+    → 66% Yes (24h +2.5pp) | vol $613K | closes 2027-01-01
