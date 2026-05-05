@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-05
-_Generated: 2026-05-05 09:17 MRU_
+_Generated: 2026-05-05 09:23 MRU_
 
 ## ETF Flows
 **BTC**:
@@ -16,24 +16,25 @@ _Generated: 2026-05-05 09:17 MRU_
   AUM: $0.9B | Holdings: 10,313,297 SOL (1.79% supply)
 
 ## Macro Prices (IG)
-Nasdaq 100: `27724.40` +67.30 (+0.24%)
-S&P 500: `7214.78` +11.49 (+0.16%)
-Gold: `4539.43` +16.99 (+0.38%)
-WTI Crude: `101.98` -1.88 (-1.81%)
-Brent Crude: `111.83` -1.15 (-1.02%)
-EUR/USD: `1.1679` -0.0012 (-0.10%)
+Nasdaq 100: `27726.80` +69.60 (+0.25%)
+S&P 500: `7214.88` +11.60 (+0.16%)
+Gold: `4538.28` +15.84 (+0.35%)
+WTI Crude: `101.97` -1.89 (-1.82%)
+Brent Crude: `111.84` -1.15 (-1.02%)
+EUR/USD: `1.1680` -0.0011 (-0.10%)
 USD/JPY: `1.5728` +0.0005 (+0.03%)
+
+## US Yields (FRED, IG)
 US 2Y T-Note: `103.436` +0.016 (+0.02%) | dur 1.9 → est ΔY -1.1bps
 US 10Y T-Note: `110.242` +0.062 (+0.06%) | dur 8.5 → est ΔY -0.7bps
-US 30Y T-Bond: `112.328` +0.156 (+0.14%) | dur 17.0 → est ΔY -0.8bps
+US 30Y T-Bond: `112.359` +0.187 (+0.17%) | dur 17.0 → est ΔY -1.0bps
 
-## US Yields (FRED)
 **US 2Y**: 3.88% (+0bps) [FRED 2026-05-01]
 **US 10Y**: 4.39% (-1bps) [FRED 2026-05-01]
 **US 30Y**: 4.97% (-1bps) [FRED 2026-05-01]
 
 ## Equities
-_US market: closed, 8h 12m until open_
+_US market: closed, 8h 6m until open_
 
 🟢 COIN: `$202.99` (+9.27, +4.8%)
     Vol: `11.2M`
@@ -70,12 +71,12 @@ _US market: closed, 8h 12m until open_
     7d avg `10.8M` (-23%) | 30d avg `8.5M` (-2%)
 
 ## Crypto
-🟢 BTC: `$80,895` (+1.0%)
-🟡 ETH: `$2,379` (-0.1%)
-🔴 SOL: `$84.84` (-0.9%)
-🟢 JUP: `$0.183` (+1.1%)
-🟡 MET: `$0.168` (-0.2%)
-🔴 GMT: `$0.011` (-1.3%)
+🟢 BTC: `$80,912` (+1.1%)
+🟡 ETH: `$2,379` (-0.0%)
+🔴 SOL: `$84.83` (-0.8%)
+🟢 JUP: `$0.183` (+1.2%)
+🔴 MET: `$0.167` (-1.0%)
+🔴 GMT: `$0.011` (-1.1%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
@@ -118,7 +119,7 @@ _US market: closed, 8h 12m until open_
   How many Fed rate cuts in 2026?
     • 0 (0 bps): 59% (24h +3.2pp)
     • 1 (25 bps): 18% (24h +2.0pp)
-    • 2 (50 bps): 11% (24h -0.5pp)
+    • 2 (50 bps): 12%
     vol $23M | closes 2026-12-31
 
   Fed Decision in June?
@@ -133,4 +134,4 @@ _US market: closed, 8h 12m until open_
     vol $35M | closes 2027-01-01
 
   Clarity Act signed into law in 2026?
-    → 70% Yes (24h +8.5pp) | vol $616K | closes 2027-01-01
+    → 70% Yes (24h +9.0pp) | vol $616K | closes 2027-01-01
