@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-06
-_Generated: 2026-05-06 17:27 MRU_
+_Generated: 2026-05-06 17:37 MRU_
 
 ## ETF Flows
 **BTC**:
@@ -16,71 +16,72 @@ _Generated: 2026-05-06 17:27 MRU_
   AUM: $0.9B | Holdings: 10,241,480 SOL (1.78% supply)
 
 ## Macro Prices (IG)
-Nasdaq 100: `28274.90` +261.60 (+0.93%)
-S&P 500: `7305.92` +46.35 (+0.64%)
-Gold: `4684.06` +127.21 (+2.79%)
-WTI Crude: `94.34` -5.61 (-5.61%)
-Brent Crude: `102.22` -6.39 (-5.88%)
-EUR/USD: `1.1751` +0.0058 (+0.50%)
-USD/JPY: `1.5627` -0.0162 (-1.02%)
+Nasdaq 100: `28318.70` +305.50 (+1.09%)
+S&P 500: `7316.88` +57.31 (+0.79%)
+Gold: `4696.24` +139.39 (+3.06%)
+WTI Crude: `93.53` -6.42 (-6.42%)
+Brent Crude: `101.27` -7.34 (-6.76%)
+EUR/USD: `1.1755` +0.0063 (+0.53%)
+USD/JPY: `1.5610` -0.0179 (-1.13%)
 
 ## US Yields (FRED, IG)
-US 2Y T-Note: `103.572` +0.105 (+0.10%) | dur 1.9 → est ΔY -5.3bps
-US 10Y T-Note: `110.742` +0.390 (+0.35%) | dur 8.5 → est ΔY -4.1bps
-US 30Y T-Bond: `113.547` +0.781 (+0.69%) | dur 17.0 → est ΔY -4.1bps
+US 2Y T-Note: `103.580` +0.113 (+0.11%) | dur 1.9 → est ΔY -5.8bps
+US 10Y T-Note: `110.758` +0.406 (+0.37%) | dur 8.5 → est ΔY -4.4bps
+US 30Y T-Bond: `113.578` +0.812 (+0.72%) | dur 17.0 → est ΔY -4.2bps
 
-**US 2Y**: N/A
+**US 2Y**: 3.95% (+7bps) [FRED 2026-05-04]
 **US 10Y**: 4.45% (+6bps) [FRED 2026-05-04]
 **US 30Y**: 5.02% (+5bps) [FRED 2026-05-04]
 
 ## Equities
-_US market: closed, 2m until open_
+_US market: open, 6h 22m until close_
 
-🟡 COIN: `$197.75` (+0.97, +0.5%)
-    Vol: `10.0M`
-    7d avg `8.3M` (+20%) | 30d avg `10.4M` (-4%)
-🟢 MSTR: `$186.90` (+8.04, +4.5%)
-    Vol: `15.0M`
-    7d avg `15.5M` (-4%) | 30d avg `18.8M` (-21%)
-🟢 GLXY: `$30.32` (+0.16, +0.5%)
-    Vol: `4.7M`
-    7d avg `6.4M` (-26%) | 30d avg `5.8M` (-18%)
-🟡 DFDV: `$4.30` (+0.00, +0.0%)
-    Vol: `680K`
-    7d avg `569K` (+19%) | 30d avg `914K` (-26%)
-🟡 IBM: `$229.03` (+0.16, +0.1%)
-    Vol: `4.2M`
-    7d avg `6.2M` (-32%) | 30d avg `5.7M` (-26%)
-🟢 MARA: `$12.16` (+0.11, +0.9%)
-    Vol: `39.1M`
-    7d avg `45.8M` (-15%) | 30d avg `47.0M` (-17%)
-🟡 JPM: `$309.40` (-0.45, -0.1%)
-    Vol: `6.3M`
-    7d avg `7.3M` (-13%) | 30d avg `8.8M` (-28%)
-🟡 MS: `$189.25` (+0.29, +0.2%)
-    Vol: `4.8M`
-    7d avg `4.6M` (+5%) | 30d avg `6.0M` (-20%)
-🟡 EQNR: `$41.36` (+0.16, +0.4%)
-    Vol: `2.8M`
-    7d avg `3.8M` (-26%) | 30d avg `7.1M` (-61%)
-🟡 FSLR: `$219.38` (-0.16, -0.1%)
-    Vol: `3.2M`
-    7d avg `2.6M` (+22%) | 30d avg `2.1M` (+50%)
-🟡 SHEL: `$89.71` (+0.11, +0.1%)
-    Vol: `9.7M`
-    7d avg `11.5M` (-16%) | 30d avg `8.4M` (+15%)
+🟢 COIN: `$197.78` (+1.00, +0.5%)
+    Vol: `1.1M`
+    7d avg `8.9M` (-88%) | 30d avg `10.3M` (-89%)
+🟢 MSTR: `$187.22` (+8.36, +4.7%)
+    Vol: `2.3M`
+    7d avg `15.7M` (-85%) | 30d avg `18.6M` (-88%)
+🟢 GLXY: `$31.51` (+1.35, +4.5%)
+    Vol: `375K`
+    7d avg `6.6M` (-94%) | 30d avg `5.8M` (-93%)
+🔴 DFDV: `$4.26` (-0.04, -0.9%)
+    Vol: `137K`
+    7d avg `594K` (-77%) | 30d avg `908K` (-85%)
+🟡 IBM: `$227.74` (-1.13, -0.5%)
+    Vol: `278K`
+    7d avg `5.4M` (-95%) | 30d avg `5.7M` (-95%)
+🚀 MARA: `$12.90` (+0.85, +7.1%)
+    Vol: `7.4M`
+    7d avg `44.7M` (-83%) | 30d avg `46.7M` (-84%)
+🟢 JPM: `$313.94` (+4.09, +1.3%)
+    Vol: `531K`
+    7d avg `7.4M` (-93%) | 30d avg `8.6M` (-94%)
+🟢 MS: `$193.84` (+4.88, +2.6%)
+    Vol: `323K`
+    7d avg `4.6M` (-93%) | 30d avg `5.8M` (-94%)
+🥶 EQNR: `$37.84` (-3.36, -8.2%)
+    Vol: `1.1M`
+    7d avg `3.8M` (-71%) | 30d avg `6.6M` (-84%)
+🔴 FSLR: `$216.73` (-2.81, -1.3%)
+    Vol: `79K`
+    7d avg `2.8M` (-97%) | 30d avg `2.1M` (-96%)
+🔴 SHEL: `$87.50` (-2.10, -2.3%)
+    Vol: `1.3M`
+    7d avg `12.3M` (-90%) | 30d avg `8.3M` (-84%)
 
 ## Crypto
-🟢 BTC: `$81,933` (+0.6%)
-🟡 ETH: `$2,384` (-0.3%)
-🟢 SOL: `$88.65` (+3.4%)
-🚀 JUP: `$0.200` (+5.7%)
-🔴 MET: `$0.169` (-0.8%)
-🟢 GMT: `$0.011` (+4.1%)
+🟢 BTC: `$81,975` (+0.7%)
+🟡 ETH: `$2,383` (-0.3%)
+🟢 SOL: `$88.70` (+3.5%)
+🟢 JUP: `$0.200` (+4.9%)
+🟡 MET: `$0.168` (-0.4%)
+🟢 GMT: `$0.011` (+4.4%)
+🟢 LINK: `$10.05` (+3.3%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
-    • June 30: 46% (24h +13.0pp)
+    • June 30: 46% (24h +12.0pp)
     • May 31: 26% (24h +13.0pp)
     vol $77M | closes 2026-12-31
 
@@ -88,7 +89,7 @@ _US market: closed, 2m until open_
     → 30% Yes (24h +15.0pp) | vol $8M | closes 2026-05-31
 
   Trump announces US blockade of Hormuz lifted by...?
-    → 42% Yes (24h +18.0pp) | vol $13M | closes 2026-06-30
+    → 42% Yes (24h +17.0pp) | vol $13M | closes 2026-06-30
 
   Will the Iranian regime fall before 2027?
     → 16% Yes (24h -2.0pp) | vol $17M | closes 2026-12-31
@@ -98,9 +99,9 @@ _US market: closed, 2m until open_
 
   Will Crude Oil (CL) hit__ by end of June?
     • ↑ $130: 27% (24h -9.5pp)
-    • ↓ $70: 22% (24h +4.0pp)
-    • ↑ $150: 10% (24h -5.0pp)
-    • ↓ $60: 8% (24h +0.5pp)
+    • ↓ $70: 22% (24h +3.0pp)
+    • ↑ $150: 10% (24h -4.5pp)
+    • ↓ $60: 8% (24h +1.0pp)
     vol $14M | closes 2026-06-30
 
   Which party will win the House in 2026?
@@ -117,14 +118,14 @@ _US market: closed, 2m until open_
     → 14% Yes | vol $8M | closes 2026-12-31
 
   How many Fed rate cuts in 2026?
-    • 0 (0 bps): 56% (24h -2.2pp)
+    • 0 (0 bps): 56% (24h -2.9pp)
     • 1 (25 bps): 20% (24h +1.0pp)
     • 2 (50 bps): 12%
     vol $24M | closes 2026-12-31
 
   Fed Decision in June?
     • No change: 96%
-    • 25 bps decrease: 4% (24h +0.9pp)
+    • 25 bps decrease: 4% (24h +0.8pp)
     • 25 bps increase: 1% (24h -0.1pp)
     • 50+ bps decrease: 1% (24h +0.1pp)
     vol $19M | closes 2026-06-17
@@ -135,4 +136,4 @@ _US market: closed, 2m until open_
     vol $35M | closes 2027-01-01
 
   Clarity Act signed into law in 2026?
-    → 66% Yes (24h +2.5pp) | vol $630K | closes 2027-01-01
+    → 66% Yes (24h +3.0pp) | vol $630K | closes 2027-01-01
