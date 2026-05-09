@@ -1,19 +1,19 @@
 # Macro Snapshot — 2026-05-09
-_Generated: 2026-05-09 09:36 MRU_
+_Generated: 2026-05-09 18:29 MRU_
 
 ## ETF Flows
 **BTC**:
   Flow: -$0.1B | 7d $1.3B | 30d $3.2B
   Vol: $1.5B | 7d avg $2.4B (-40%) | 30d avg $2.4B (-40%)
-  AUM: $106.6B | Holdings: 1,325,298 BTC (6.62% supply)
+  AUM: $106.6B | Holdings: 1,328,005 BTC (6.63% supply)
 **ETH**:
   Flow: $4M | 7d $0.1B | 30d $0.5B
   Vol: $0.3B | 7d avg $0.5B (-30%) | 30d avg $0.8B (-56%)
-  AUM: $13.7B | Holdings: 5,926,443 ETH (4.91% supply)
+  AUM: $13.7B | Holdings: 5,952,467 ETH (4.93% supply)
 **SOL**:
   Flow: $6M | 7d $38M | 30d $64M
   Vol: $58M | 7d avg $37M (+56%) | 30d avg $36M (+61%)
-  AUM: $1.0B | Holdings: 10,553,957 SOL (1.83% supply)
+  AUM: $1.0B | Holdings: 10,615,225 SOL (1.84% supply)
 
 ## Macro Prices (IG)
 Nasdaq 100: `29226.40` -5.10 (-0.02%)
@@ -25,16 +25,16 @@ EUR/USD: `1.1784`
 USD/JPY: `1.5669`
 
 ## US Yields (FRED, IG)
-US 2Y T-Note: `103.561` +0.012 (+0.01%) | dur 1.9 → est ΔY -0.5bps
-US 10Y T-Note: `110.789` +0.047 (+0.04%) | dur 8.5 → est ΔY -0.5bps
-US 30Y T-Bond: `113.734` +0.187 (+0.16%) | dur 17.0 → est ΔY -0.9bps
+US 2Y T-Note: `103.559` +0.010 (+0.01%) | dur 1.9 → est ΔY -0.5bps
+US 10Y T-Note: `110.781` +0.039 (+0.04%) | dur 8.5 → est ΔY -0.5bps
+US 30Y T-Bond: `113.719` +0.172 (+0.15%) | dur 17.0 → est ΔY -0.9bps
 
 **US 2Y**: 3.92% (+5bps) [FRED 2026-05-07]
 **US 10Y**: 4.41% (+5bps) [FRED 2026-05-07]
 **US 30Y**: 4.97% (+3bps) [FRED 2026-05-07]
 
 ## Equities
-_US market: closed, 2d 7h until open_
+_US market: closed, 1d 23h until open_
 
 🚀 COIN: `$201.16` (+16.66, +9.0%)
     Vol: `12.8M`
@@ -71,41 +71,41 @@ _US market: closed, 2d 7h until open_
     7d avg `710K` (-9%) | 30d avg `906K` (-29%)
 
 ## Crypto
-🟢 BTC: `$80,451` (+1.0%)
-🟢 ETH: `$2,317` (+1.6%)
-🚀 SOL: `$93.56` (+5.9%)
-🚀 JUP: `$0.250` (+22.7%)
-🚀 MET: `$0.186` (+8.2%)
-🟢 GMT: `$0.012` (+3.6%)
-🚀 LINK: `$10.54` (+6.9%)
+BTC: N/A
+ETH: N/A
+SOL: N/A
+JUP: N/A
+MET: N/A
+GMT: N/A
+LINK: N/A
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
-    • June 30: 46% (24h -8.0pp)
-    • May 31: 30% (24h -4.0pp)
-    vol $92M | closes 2026-12-31
+    • June 30: 44% (24h -8.0pp)
+    • May 31: 24% (24h -9.0pp)
+    vol $93M | closes 2026-12-31
 
   Strait of Hormuz traffic returns to normal by end of May?
-    → 26% Yes (24h +1.0pp) | vol $10M | closes 2026-05-31
+    → 20% Yes (24h -8.0pp) | vol $10M | closes 2026-05-31
 
   Trump announces US blockade of Hormuz lifted by...?
-    → 43% Yes (24h +2.5pp) | vol $15M | closes 2026-06-30
+    → 34% Yes (24h -5.5pp) | vol $15M | closes 2026-06-30
 
   Will the Iranian regime fall before 2027?
-    → 16% Yes (24h +1.0pp) | vol $17M | closes 2026-12-31
+    → 16% Yes (24h +0.5pp) | vol $17M | closes 2026-12-31
 
   Will the U.S. invade Cuba in 2026?
-    → 16% Yes | vol $2M | closes 2026-12-31
+    → 20% Yes (24h +4.0pp) | vol $2M | closes 2026-12-31
 
   Will Crude Oil (CL) hit__ by end of June?
-    • ↓ $70: 26% (24h +2.5pp)
-    • ↑ $130: 24% (24h -2.5pp)
-    • ↑ $150: 14%
-    • ↓ $60: 10%
+    • ↓ $70: 26% (24h +1.5pp)
+    • ↑ $130: 22% (24h -3.0pp)
+    • ↑ $150: 12% (24h +0.5pp)
+    • ↓ $60: 10% (24h +0.5pp)
     vol $15M | closes 2026-06-30
 
   Which party will win the House in 2026?
-    • Democratic Party: 78% (24h -5.0pp)
+    • Democratic Party: 78% (24h -3.0pp)
     • Republican Party: 22% (24h +3.0pp)
     vol $6M | closes 2026-11-03
 
@@ -115,24 +115,24 @@ _US market: closed, 2d 7h until open_
     vol $2M | closes 2026-11-03
 
   Trump out as President before 2027?
-    → 12% Yes (24h -1.0pp) | vol $8M | closes 2026-12-31
+    → 12% Yes (24h -2.0pp) | vol $8M | closes 2026-12-31
 
   How many Fed rate cuts in 2026?
     • 0 (0 bps): 56% (24h +0.2pp)
     • 1 (25 bps): 20% (24h +2.0pp)
-    • 2 (50 bps): 12% (24h +1.0pp)
+    • 2 (50 bps): 14% (24h +2.0pp)
     vol $24M | closes 2026-12-31
 
   Fed Decision in June?
-    • No change: 97% (24h +1.8pp)
-    • 25 bps decrease: 2% (24h -1.3pp)
-    • 25 bps increase: 1% (24h -0.4pp)
+    • No change: 97% (24h +0.7pp)
+    • 25 bps decrease: 2% (24h -0.4pp)
+    • 25 bps increase: 1%
     vol $21M | closes 2026-06-17
 
   What price will Bitcoin hit in 2026?
     • ↑ 100,000: 48% (24h +2.0pp)
-    • ↓ 45,000: 26%
+    • ↓ 45,000: 26% (24h -1.0pp)
     vol $36M | closes 2027-01-01
 
   Clarity Act signed into law in 2026?
-    → 74% Yes (24h +3.0pp) | vol $648K | closes 2027-01-01
+    → 74% Yes (24h +1.5pp) | vol $650K | closes 2027-01-01
