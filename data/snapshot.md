@@ -1,23 +1,23 @@
 # Macro Snapshot — 2026-05-10
-_Generated: 2026-05-10 10:27 MRU_
+_Generated: 2026-05-10 13:07 MRU_
 
 ## ETF Flows
 **BTC**:
   Flow: -$0.1B | 7d $1.3B | 30d $3.2B
   Vol: $1.5B | 7d avg $2.4B (-40%) | 30d avg $2.4B (-40%)
-  AUM: $106.6B | Holdings: 1,321,372 BTC (6.60% supply)
+  AUM: $106.6B | Holdings: 1,318,251 BTC (6.58% supply)
 **ETH**:
   Flow: $4M | 7d $0.1B | 30d $0.5B
   Vol: $0.3B | 7d avg $0.5B (-30%) | 30d avg $0.8B (-56%)
-  AUM: $13.7B | Holdings: 5,900,544 ETH (4.89% supply)
+  AUM: $13.7B | Holdings: 5,888,171 ETH (4.88% supply)
 **SOL**:
   Flow: $6M | 7d $38M | 30d $64M
   Vol: $58M | 7d avg $37M (+56%) | 30d avg $36M (+61%)
-  AUM: $1.0B | Holdings: 10,579,966 SOL (1.83% supply)
+  AUM: $1.0B | Holdings: 10,439,034 SOL (1.81% supply)
 
 ## Macro Prices (IG)
 Nasdaq 100: `29226.40` -5.10 (-0.02%)
-S&P 500: `7395.42` -1.00 (-0.01%)
+S&P 500: N/A
 Gold: `4714.82`
 WTI Crude: `92.40` -0.69 (-0.74%)
 Brent Crude: `99.33` -0.68 (-0.68%)
@@ -34,7 +34,7 @@ US 30Y T-Bond: `113.719` +0.172 (+0.15%) | dur 17.0 → est ΔY -0.9bps
 **US 30Y**: 4.97% (+3bps) [FRED 2026-05-07]
 
 ## Equities
-_US market: closed, 1d 7h until open_
+_US market: closed, 1d 4h until open_
 
 🚀 COIN: `$201.16` (+16.66, +9.0%)
     Vol: `12.8M`
@@ -74,13 +74,13 @@ _US market: closed, 1d 7h until open_
     7d avg `6.9M` (-24%) | 30d avg `8.8M` (-41%)
 
 ## Crypto
-BTC: N/A
-ETH: N/A
-SOL: N/A
-JUP: N/A
-MET: N/A
-GMT: N/A
-LINK: N/A
+🟢 BTC: `$80,852` (+0.6%)
+🟢 ETH: `$2,331` (+0.7%)
+🟢 SOL: `$94.58` (+1.0%)
+🟢 JUP: `$0.254` (+4.7%)
+🔴 MET: `$0.180` (-3.8%)
+🟢 GMT: `$0.012` (+1.9%)
+🟢 LINK: `$10.51` (+0.5%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
@@ -89,10 +89,10 @@ LINK: N/A
     vol $95M | closes 2026-12-31
 
   Strait of Hormuz traffic returns to normal by end of May?
-    → 23% Yes (24h -2.5pp) | vol $11M | closes 2026-05-31
+    → 22% Yes (24h -4.0pp) | vol $11M | closes 2026-05-31
 
   Trump announces US blockade of Hormuz lifted by...?
-    → 40% Yes (24h -3.0pp) | vol $16M | closes 2026-06-30
+    → 40% Yes (24h -4.0pp) | vol $16M | closes 2026-06-30
 
   Will the Iranian regime fall before 2027?
     → 16% Yes | vol $17M | closes 2026-12-31
@@ -101,15 +101,15 @@ LINK: N/A
     → 20% Yes (24h +4.0pp) | vol $2M | closes 2026-12-31
 
   Will Crude Oil (CL) hit__ by end of June?
-    • ↓ $70: 25% (24h -0.5pp)
-    • ↑ $130: 24%
-    • ↑ $150: 14%
-    • ↓ $60: 10%
+    • ↑ $130: 24% (24h +2.5pp)
+    • ↓ $70: 24% (24h -2.5pp)
+    • ↑ $150: 14% (24h +1.0pp)
+    • ↓ $60: 9% (24h -0.5pp)
     vol $16M | closes 2026-06-30
 
   Which party will win the House in 2026?
     • Democratic Party: 78% (24h +1.0pp)
-    • Republican Party: 22% (24h +1.0pp)
+    • Republican Party: 22% (24h +0.5pp)
     vol $6M | closes 2026-11-03
 
   Which party will win the Senate in 2026?
@@ -121,21 +121,21 @@ LINK: N/A
     → 12% Yes (24h -1.0pp) | vol $8M | closes 2026-12-31
 
   How many Fed rate cuts in 2026?
-    • 0 (0 bps): 57% (24h +1.0pp)
+    • 0 (0 bps): 57% (24h +0.8pp)
     • 1 (25 bps): 20%
-    • 2 (50 bps): 12%
+    • 2 (50 bps): 12% (24h -1.0pp)
     vol $25M | closes 2026-12-31
 
   Fed Decision in June?
     • No change: 97% (24h -0.3pp)
-    • 25 bps decrease: 2% (24h +0.2pp)
+    • 25 bps decrease: 2% (24h +0.1pp)
     • 25 bps increase: 1%
     vol $22M | closes 2026-06-17
 
   What price will Bitcoin hit in 2026?
-    • ↑ 100,000: 48% (24h +1.0pp)
-    • ↓ 45,000: 26%
+    • ↑ 100,000: 48% (24h +0.5pp)
+    • ↓ 45,000: 24% (24h -2.0pp)
     vol $36M | closes 2027-01-01
 
   Clarity Act signed into law in 2026?
-    → 73% Yes (24h -0.5pp) | vol $653K | closes 2027-01-01
+    → 74% Yes (24h +3.0pp) | vol $653K | closes 2027-01-01
