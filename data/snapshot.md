@@ -1,23 +1,23 @@
 # Macro Snapshot — 2026-05-10
-_Generated: 2026-05-10 13:07 MRU_
+_Generated: 2026-05-10 13:17 MRU_
 
 ## ETF Flows
 **BTC**:
   Flow: -$0.1B | 7d $1.3B | 30d $3.2B
   Vol: $1.5B | 7d avg $2.4B (-40%) | 30d avg $2.4B (-40%)
-  AUM: $106.6B | Holdings: 1,318,251 BTC (6.58% supply)
+  AUM: $106.6B | Holdings: 1,318,806 BTC (6.59% supply)
 **ETH**:
   Flow: $4M | 7d $0.1B | 30d $0.5B
   Vol: $0.3B | 7d avg $0.5B (-30%) | 30d avg $0.8B (-56%)
-  AUM: $13.7B | Holdings: 5,888,171 ETH (4.88% supply)
+  AUM: $13.7B | Holdings: 5,893,200 ETH (4.88% supply)
 **SOL**:
   Flow: $6M | 7d $38M | 30d $64M
   Vol: $58M | 7d avg $37M (+56%) | 30d avg $36M (+61%)
-  AUM: $1.0B | Holdings: 10,439,034 SOL (1.81% supply)
+  AUM: $1.0B | Holdings: 10,453,401 SOL (1.81% supply)
 
 ## Macro Prices (IG)
 Nasdaq 100: `29226.40` -5.10 (-0.02%)
-S&P 500: N/A
+S&P 500: `7395.42` -1.00 (-0.01%)
 Gold: `4714.82`
 WTI Crude: `92.40` -0.69 (-0.74%)
 Brent Crude: `99.33` -0.68 (-0.68%)
@@ -74,13 +74,13 @@ _US market: closed, 1d 4h until open_
     7d avg `6.9M` (-24%) | 30d avg `8.8M` (-41%)
 
 ## Crypto
-🟢 BTC: `$80,852` (+0.6%)
-🟢 ETH: `$2,331` (+0.7%)
-🟢 SOL: `$94.58` (+1.0%)
-🟢 JUP: `$0.254` (+4.7%)
-🔴 MET: `$0.180` (-3.8%)
+🟢 BTC: `$80,839` (+0.7%)
+🟢 ETH: `$2,330` (+0.8%)
+🟢 SOL: `$94.46` (+1.0%)
+🚀 JUP: `$0.255` (+6.0%)
+🔴 MET: `$0.180` (-2.8%)
 🟢 GMT: `$0.012` (+1.9%)
-🟢 LINK: `$10.51` (+0.5%)
+🟢 LINK: `$10.52` (+1.0%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
@@ -92,7 +92,7 @@ _US market: closed, 1d 4h until open_
     → 22% Yes (24h -4.0pp) | vol $11M | closes 2026-05-31
 
   Trump announces US blockade of Hormuz lifted by...?
-    → 40% Yes (24h -4.0pp) | vol $16M | closes 2026-06-30
+    → 40% Yes (24h -3.0pp) | vol $16M | closes 2026-06-30
 
   Will the Iranian regime fall before 2027?
     → 16% Yes | vol $17M | closes 2026-12-31
@@ -138,4 +138,4 @@ _US market: closed, 1d 4h until open_
     vol $36M | closes 2027-01-01
 
   Clarity Act signed into law in 2026?
-    → 74% Yes (24h +3.0pp) | vol $653K | closes 2027-01-01
+    → 74% Yes (24h +2.5pp) | vol $653K | closes 2027-01-01
