@@ -1,29 +1,31 @@
 {
-  "generated_at": "2026-05-16T05:11:38.220726+04:00",
+  "generated_at": "2026-05-16T05:16:50.964349+04:00",
   "data_date": "2026-05-15",
   "us_market": "closed, 2d 12h until open",
   "etf_flows": [
     {
       "name": "BTC",
-      "data_date": "2026-05-14",
-      "all_confirmed": true,
-      "any_not_updated": false,
+      "data_date": "2026-05-15",
+      "all_confirmed": false,
+      "any_not_updated": true,
       "field_statuses": {
         "dailyNetInflow": "1",
         "dailyTotalValueTraded": "1",
         "totalNetAssets": "1"
       },
-      "pending_etfs": [],
-      "stale": false,
-      "today_flow": 131313430.96,
+      "pending_etfs": [
+        "IBIT"
+      ],
+      "stale": true,
+      "today_flow": -154168884.205,
       "avg7_flow": -1086696721.02,
       "avg30_flow": 2682116557.435,
-      "today_vol": 2401955852.061,
+      "today_vol": 2410469800.77,
       "avg7_vol": 1866103396.425,
       "avg30_vol": 2297797820.1072416,
-      "token_holdings": 1323489.66135807,
-      "total_net_assets": 107745710109.03088,
-      "pct_supply": 0.06607569
+      "token_holdings": 1321067.23027949,
+      "total_net_assets": 106401951197.41257,
+      "pct_supply": 0.06595469
     },
     {
       "name": "ETH",
@@ -365,31 +367,31 @@
   "crypto": {
     "BTC": {
       "price": 79082,
-      "chg_24h": -2.997714385639865
+      "chg_24h": -2.9768348805101836
     },
     "ETH": {
-      "price": 2227.03,
-      "chg_24h": -2.784416249057473
+      "price": 2226.78,
+      "chg_24h": -2.8148059619406367
     },
     "SOL": {
-      "price": 89.18,
-      "chg_24h": -3.467315937015604
+      "price": 89.19,
+      "chg_24h": -3.4427785866040637
     },
     "JUP": {
-      "price": 0.210903,
-      "chg_24h": -6.547650634081026
+      "price": 0.210823,
+      "chg_24h": -6.72487013183374
     },
     "MET": {
-      "price": 0.154344,
-      "chg_24h": -3.721851563325535
+      "price": 0.154405,
+      "chg_24h": -3.6837217528230144
     },
     "GMT": {
-      "price": 0.011649,
-      "chg_24h": -8.365952321727056
+      "price": 0.01166619,
+      "chg_24h": -8.290904488066875
     },
     "LINK": {
       "price": 10.08,
-      "chg_24h": -4.213563897552159
+      "chg_24h": -4.205517064730648
     }
   },
   "polymarket": [
@@ -412,18 +414,18 @@
           "label": "June 30",
           "yes_pct": 32.5,
           "chg_24h_pp": -1.0,
-          "volume": 9391282.251487156,
+          "volume": 9391340.709133156,
           "end_date": "2026-05-31"
         },
         {
           "label": "May 31",
           "yes_pct": 11.5,
           "chg_24h_pp": -1.0,
-          "volume": 23806087.861494802,
+          "volume": 23817217.074966803,
           "end_date": "2026-05-31"
         }
       ],
-      "volume": 116441075.29657233,
+      "volume": 116444755.02598132,
       "end_date": "2026-12-31",
       "slug": "357807"
     },
@@ -437,11 +439,11 @@
           "label": "Strait of Hormuz traffic returns to normal by end of May?",
           "yes_pct": 5.5,
           "chg_24h_pp": -1.0,
-          "volume": 13952070.450211113,
+          "volume": 13957091.836163113,
           "end_date": "2026-05-31"
         }
       ],
-      "volume": 13952059.923897114,
+      "volume": 13952070.450211113,
       "end_date": "2026-05-31",
       "slug": "329821"
     },
@@ -464,7 +466,7 @@
           "end_date": "2026-05-31"
         }
       ],
-      "volume": 17762695.369237993,
+      "volume": 17763210.369237993,
       "end_date": "2026-06-30",
       "slug": "372242"
     },
@@ -579,14 +581,14 @@
           "label": "Democratic Party",
           "yes_pct": 78.5,
           "chg_24h_pp": null,
-          "volume": 3392639.7260209844,
+          "volume": 3392663.2460209844,
           "end_date": "2026-11-03"
         },
         {
           "label": "Republican Party",
           "yes_pct": 21.5,
           "chg_24h_pp": null,
-          "volume": 2877369.837105968,
+          "volume": 2877387.477105968,
           "end_date": "2026-11-03"
         }
       ],
@@ -687,7 +689,7 @@
           "end_date": "2026-12-31"
         }
       ],
-      "volume": 26667663.819142118,
+      "volume": 26667666.963642117,
       "end_date": "2026-12-31",
       "slug": "51456"
     },
@@ -708,7 +710,7 @@
           "label": "25 bps decrease",
           "yes_pct": 0.8500000000000001,
           "chg_24h_pp": -0.5,
-          "volume": 5275179.239858918,
+          "volume": 5275382.319858919,
           "end_date": "2026-06-17"
         },
         {
@@ -719,7 +721,7 @@
           "end_date": "2026-06-17"
         }
       ],
-      "volume": 29109939.124987755,
+      "volume": 29121364.059201755,
       "end_date": "2026-06-17",
       "slug": "101772"
     },
@@ -753,7 +755,7 @@
           "end_date": "2027-01-01"
         }
       ],
-      "volume": 36603099.30477584,
+      "volume": 36603455.45450584,
       "end_date": "2027-01-01",
       "slug": "89502"
     },
