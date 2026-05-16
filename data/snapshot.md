@@ -1,11 +1,11 @@
 # Macro Snapshot — 2026-05-16
-_Generated: 2026-05-16 05:11 MRU_
+_Generated: 2026-05-16 05:16 MRU_
 
 ## ETF Flows
-**BTC**:
-  Flow: $0.1B | 7d -$1.1B | 30d $2.7B
+**BTC**: _(prelim)_ _(IBIT pending)_
+  Flow: -$0.2B | 7d -$1.1B | 30d $2.7B
   Vol: $2.4B | 7d avg $1.9B (+29%) | 30d avg $2.3B (+5%)
-  AUM: $107.7B | Holdings: 1,323,490 BTC (6.61% supply)
+  AUM: $106.4B | Holdings: 1,321,067 BTC (6.60% supply)
 **ETH**: _(prelim)_ _(ETHA, ETHB pending)_
   Flow: -$15M | 7d -$0.3B | 30d $0.3B
   Vol: $0.6B | 7d avg $0.5B (+15%) | 30d avg $0.7B (-20%)
@@ -85,10 +85,10 @@ _US market: closed, 2d 12h until open_
 ## Crypto
 🔴 BTC: `$79,082` (-3.0%)
 🔴 ETH: `$2,227` (-2.8%)
-🔴 SOL: `$89.18` (-3.5%)
-🥶 JUP: `$0.211` (-6.5%)
+🔴 SOL: `$89.19` (-3.4%)
+🥶 JUP: `$0.211` (-6.7%)
 🔴 MET: `$0.154` (-3.7%)
-🥶 GMT: `$0.012` (-8.4%)
+🥶 GMT: `$0.012` (-8.3%)
 🔴 LINK: `$10.08` (-4.2%)
 
 ## Prediction Markets
