@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-18
-_Generated: 2026-05-18 06:12 MRU_
+_Generated: 2026-05-18 09:06 MRU_
 
 ## ETF Flows
 **BTC**:
@@ -13,28 +13,28 @@ _Generated: 2026-05-18 06:12 MRU_
 **SOL**:
   Flow: $0.00 | 7d $71M | 30d $0.1B
   Vol: $42M | 7d avg $59M (-28%) | 30d avg $40M (+6%)
-  AUM: $1.0B | Holdings: 11,305,353 SOL (1.95% supply)
+  AUM: $1.0B | Holdings: 11,305,351 SOL (1.95% supply)
 
 ## Macro Prices (IG)
-Nasdaq 100: `28923.00` -210.60 (-0.72%)
-S&P 500: `7364.66` -46.36 (-0.63%)
-Gold: `4531.86` -7.95 (-0.18%)
-WTI Crude: `103.58` +1.96 (+1.93%)
-Brent Crude: `108.32` +1.60 (+1.50%)
-EUR/USD: `1.1617` -0.0009 (-0.08%)
-USD/JPY: `1.5890` +0.0013 (+0.08%)
+Nasdaq 100: `28977.30` -156.30 (-0.54%)
+S&P 500: `7366.72` -44.30 (-0.60%)
+Gold: `4534.75` -5.07 (-0.11%)
+WTI Crude: `103.13` +1.52 (+1.49%)
+Brent Crude: `107.93` +1.21 (+1.13%)
+EUR/USD: `1.1621` -0.0005 (-0.04%)
+USD/JPY: `1.5899` +0.0021 (+0.13%)
 
 ## US Yields (FRED, IG)
-US 2Y T-Note: `103.178` -0.023 (-0.02%) | dur 1.9 → est ΔY +1.1bps
-US 10Y T-Note: `108.977` -0.203 (-0.19%) | dur 8.5 → est ΔY +2.2bps
-US 30Y T-Bond: `110.234` -0.375 (-0.34%) | dur 17.0 → est ΔY +2.0bps
+US 2Y T-Note: `103.170` -0.031 (-0.03%) | dur 1.9 → est ΔY +1.6bps
+US 10Y T-Note: `108.992` -0.188 (-0.17%) | dur 8.5 → est ΔY +2.0bps
+US 30Y T-Bond: `110.297` -0.312 (-0.28%) | dur 17.0 → est ΔY +1.6bps
 
 **US 2Y**: 4.00% (+2bps) [FRED 2026-05-14]
 **US 10Y**: 4.47% (+1bps) [FRED 2026-05-14]
 **US 30Y**: 5.02% (-1bps) [FRED 2026-05-14]
 
 ## Equities
-_US market: closed, 11h 17m until open_
+_US market: closed, 8h 23m until open_
 
 🥶 COIN: `$195.43` (-17.33, -8.1%)
     Vol: `14.4M`
@@ -84,13 +84,13 @@ _US market: closed, 11h 17m until open_
 FORD: N/A
 
 ## Crypto
-🔴 BTC: `$77,112` (-0.9%)
-🔴 ETH: `$2,121` (-2.4%)
-🔴 SOL: `$85.15` (-0.9%)
-🔴 JUP: `$0.195` (-1.2%)
-🔴 MET: `$0.146` (-0.8%)
-🔴 GMT: `$0.011` (-4.7%)
-🔴 LINK: `$9.55` (-1.0%)
+🔴 BTC: `$76,992` (-1.6%)
+🔴 ETH: `$2,123` (-3.1%)
+🔴 SOL: `$85.25` (-2.0%)
+🔴 JUP: `$0.196` (-1.7%)
+🔴 MET: `$0.146` (-2.2%)
+🥶 GMT: `$0.011` (-5.9%)
+🔴 LINK: `$9.55` (-2.4%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
@@ -99,7 +99,7 @@ FORD: N/A
     vol $0.1B | closes 2026-12-31
 
   Strait of Hormuz traffic returns to normal by end of May?
-    → 4% Yes (24h -0.5pp) | vol $15M | closes 2026-05-31
+    → 4% Yes (24h +0.2pp) | vol $15M | closes 2026-05-31
 
   Trump announces US blockade of Hormuz lifted by...?
     → 16% Yes (24h -4.0pp) | vol $18M | closes 2026-06-30
@@ -111,15 +111,15 @@ FORD: N/A
     → 22% Yes (24h +2.0pp) | vol $2M | closes 2026-12-31
 
   Will Crude Oil (CL) hit__ by end of June?
-    • ↑ $130: 31% (24h +1.0pp)
-    • ↓ $70: 12% (24h +1.5pp)
-    • ↑ $150: 12% (24h -0.5pp)
+    • ↑ $130: 31% (24h -1.0pp)
+    • ↑ $150: 12%
+    • ↓ $70: 11% (24h -0.5pp)
     • ↓ $60: 4% (24h -0.5pp)
     vol $17M | closes 2026-06-30
 
   Which party will win the House in 2026?
-    • Democratic Party: 78% (24h -1.0pp)
-    • Republican Party: 22% (24h +0.5pp)
+    • Democratic Party: 78% (24h -2.0pp)
+    • Republican Party: 22%
     vol $6M | closes 2026-11-03
 
   Which party will win the Senate in 2026?
@@ -132,23 +132,23 @@ FORD: N/A
 
   How many Fed rate cuts in 2026?
     • 0 (0 bps): 70% (24h -0.6pp)
-    • 1 (25 bps): 16%
+    • 1 (25 bps): 16% (24h +1.0pp)
     • 2 (50 bps): 6%
     vol $27M | closes 2026-12-31
 
   Fed Decision in June?
-    • No change: 98% (24h -0.2pp)
-    • 25 bps decrease: 1% (24h +0.5pp)
-    • 25 bps increase: 1%
-    vol $32M | closes 2026-06-17
+    • No change: 98% (24h -0.4pp)
+    • 25 bps decrease: 1% (24h +0.8pp)
+    • 25 bps increase: 1% (24h +0.1pp)
+    vol $33M | closes 2026-06-17
 
   What price will Bitcoin hit in 2026?
-    • ↑ 100,000: 36% (24h -5.5pp)
-    • ↓ 45,000: 33% (24h +1.5pp)
+    • ↑ 100,000: 36% (24h -4.0pp)
+    • ↓ 45,000: 34% (24h +2.0pp)
     vol $37M | closes 2027-01-01
 
   Clarity Act signed into law in 2026?
-    → 62% Yes (24h +1.0pp) | vol $941K | closes 2027-01-01
+    → 62% Yes (24h +1.0pp) | vol $942K | closes 2027-01-01
 
 ---
 _End of snapshot._
