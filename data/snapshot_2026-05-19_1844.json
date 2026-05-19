@@ -1,0 +1,787 @@
+{
+  "generated_at": "2026-05-19T18:44:38.766007+04:00",
+  "data_date": "2026-05-18",
+  "us_market": "open, 5h 15m until close",
+  "etf_flows": [
+    {
+      "name": "BTC",
+      "data_date": "2026-05-18",
+      "all_confirmed": true,
+      "any_not_updated": false,
+      "field_statuses": {
+        "dailyNetInflow": "1",
+        "dailyTotalValueTraded": "1",
+        "totalNetAssets": "1"
+      },
+      "pending_etfs": [],
+      "stale": false,
+      "today_flow": -648640566.63,
+      "avg7_flow": -1794589433.0500002,
+      "avg30_flow": 1262741692.865,
+      "today_vol": 3139941995.0,
+      "avg7_vol": 2045257575.1833334,
+      "avg30_vol": 2328403256.7482758,
+      "token_holdings": 1306544.086826,
+      "total_net_assets": 100485432785.17091,
+      "pct_supply": 0.06522472
+    },
+    {
+      "name": "ETH",
+      "data_date": "2026-05-18",
+      "all_confirmed": true,
+      "any_not_updated": false,
+      "field_statuses": {
+        "dailyNetInflow": "1",
+        "dailyTotalValueTraded": "1",
+        "totalNetAssets": "1"
+      },
+      "pending_etfs": [],
+      "stale": false,
+      "today_flow": -86306647.94,
+      "avg7_flow": -337841277.585,
+      "avg30_flow": 144275272.465,
+      "today_vol": 742403625.0,
+      "avg7_vol": 506931984.55,
+      "avg30_vol": 667162651.4958621,
+      "token_holdings": 5762631.09640692,
+      "total_net_assets": 12203005305.498999,
+      "pct_supply": 0.04774908
+    },
+    {
+      "name": "SOL",
+      "data_date": "2026-05-18",
+      "all_confirmed": true,
+      "any_not_updated": false,
+      "field_statuses": {
+        "dailyNetInflow": "1",
+        "dailyTotalValueTraded": "1",
+        "totalNetAssets": "1"
+      },
+      "pending_etfs": [],
+      "stale": false,
+      "today_flow": 2055206.96,
+      "avg7_flow": 66407920.349999994,
+      "avg30_flow": 136910413.312,
+      "today_vol": 63447626.0,
+      "avg7_vol": 59999390.07333333,
+      "avg30_vol": 40638157.41068966,
+      "token_holdings": 11271869.91378135,
+      "total_net_assets": 957122882.127,
+      "pct_supply": 0.01948811
+    }
+  ],
+  "macro_ig": {
+    "Nasdaq 100": {
+      "epic": "IX.D.NASDAQ.CASH.IP",
+      "mid": 28661.800000000003,
+      "net_change": -336.1,
+      "pct_change": -1.16,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "S&P 500": {
+      "epic": "IX.D.SPTRD.DAILY.IP",
+      "mid": 7345.605,
+      "net_change": -58.23,
+      "pct_change": -0.79,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "Gold": {
+      "epic": "CS.D.USCGC.TODAY.IP",
+      "mid": 4494.15,
+      "net_change": -72.05,
+      "pct_change": -1.58,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "WTI Crude": {
+      "epic": "CC.D.CL.USS.IP",
+      "mid": 10327.1,
+      "net_change": -109.2,
+      "pct_change": -1.05,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "Brent Crude": {
+      "epic": "CC.D.LCO.USS.IP",
+      "mid": 10732.8,
+      "net_change": -161.8,
+      "pct_change": -1.49,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "EUR/USD": {
+      "epic": "CS.D.EURUSD.TODAY.IP",
+      "mid": 11596.8,
+      "net_change": -58.8,
+      "pct_change": -0.5,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "USD/JPY": {
+      "epic": "CS.D.USDJPY.TODAY.IP",
+      "mid": 15916.55,
+      "net_change": 33.3,
+      "pct_change": 0.21,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "US 2Y T-Note": {
+      "epic": "IR.D.02YEAR100.Month2.IP",
+      "mid": 10311.1,
+      "net_change": -6.7,
+      "pct_change": -0.06,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "US 10Y T-Note": {
+      "epic": "IR.D.10YEAR100.Month2.IP",
+      "mid": 10866.4,
+      "net_change": -35.9,
+      "pct_change": -0.33,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    },
+    "US 30Y T-Bond": {
+      "epic": "IR.D.BOND100.Month2.IP",
+      "mid": 10973.4,
+      "net_change": -65.7,
+      "pct_change": -0.6,
+      "status": "TRADEABLE",
+      "scaling": 1,
+      "today_vol": null,
+      "avg30_vol": null
+    }
+  },
+  "yields_fred": {
+    "US 2Y": {
+      "yield": 4.09,
+      "chg_bps": 9,
+      "date": "2026-05-15",
+      "display": "4.09% (+9bps) [FRED 2026-05-15]"
+    },
+    "US 10Y": {
+      "yield": 4.59,
+      "chg_bps": 12,
+      "date": "2026-05-15",
+      "display": "4.59% (+12bps) [FRED 2026-05-15]"
+    },
+    "US 30Y": {
+      "yield": 5.12,
+      "chg_bps": 10,
+      "date": "2026-05-15",
+      "display": "5.12% (+10bps) [FRED 2026-05-15]"
+    }
+  },
+  "equities": {
+    "COIN": {
+      "price": 190.25,
+      "chg": 0.5099999999999909,
+      "pct": 0.2687888689785975,
+      "today_vol": 9497570.133379197,
+      "today_vol_raw": 1806418,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 12260585.714285715,
+      "avg30_vol": 10346303.333333334
+    },
+    "MSTR": {
+      "price": 165.5,
+      "chg": -2.0,
+      "pct": -1.1940298507462688,
+      "today_vol": 17439807.72776334,
+      "today_vol_raw": 3317015,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 16288357.142857144,
+      "avg30_vol": 18017546.666666668
+    },
+    "GLXY": {
+      "price": 26.475000381469727,
+      "chg": -1.0749996185302741,
+      "pct": -3.9019949855908314,
+      "today_vol": 4827161.321785752,
+      "today_vol_raw": 918116,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 4804142.857142857,
+      "avg30_vol": 5601873.333333333
+    },
+    "CRCL": {
+      "price": 110.1449966430664,
+      "chg": -1.655003356933591,
+      "pct": -1.4803250062017808,
+      "today_vol": 18406458.722645164,
+      "today_vol_raw": 3500870,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 24208857.14285714,
+      "avg30_vol": 15666306.666666666
+    },
+    "IBM": {
+      "price": 225.7949981689453,
+      "chg": 3.184998168945299,
+      "pct": 1.4307525128903906,
+      "today_vol": 5887677.700865041,
+      "today_vol_raw": 1119824,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 6345828.571428572,
+      "avg30_vol": 6398523.333333333
+    },
+    "MARA": {
+      "price": 11.680000305175781,
+      "chg": -0.4599996948242193,
+      "pct": -3.78912433957347,
+      "today_vol": 55019968.08937965,
+      "today_vol_raw": 10464683,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 43717500.0,
+      "avg30_vol": 45389136.666666664
+    },
+    "PURR": {
+      "price": 7.514999866485596,
+      "chg": -0.24500013351440408,
+      "pct": -3.1572182153918056,
+      "today_vol": 43068406.75665792,
+      "today_vol_raw": 8191521,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 9036114.285714285,
+      "avg30_vol": 6650366.666666667
+    },
+    "JPM": {
+      "price": 300.0199890136719,
+      "chg": -0.8300109863281477,
+      "pct": -0.27588864428391147,
+      "today_vol": 8017527.590558887,
+      "today_vol_raw": 1524917,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 8541571.42857143,
+      "avg30_vol": 8147496.666666667
+    },
+    "MS": {
+      "price": 191.50999450683594,
+      "chg": -1.3500054931640761,
+      "pct": -0.6999924780483646,
+      "today_vol": 6784270.092462752,
+      "today_vol_raw": 1290354,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 5062257.142857143,
+      "avg30_vol": 5566790.0
+    },
+    "FSLR": {
+      "price": 225.09500122070312,
+      "chg": -8.404998779296875,
+      "pct": -3.5995712116903102,
+      "today_vol": 2216543.7966020424,
+      "today_vol_raw": 421582,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 2502600.0,
+      "avg30_vol": 2390033.3333333335
+    },
+    "XXI": {
+      "price": 7.699999809265137,
+      "chg": -0.17860019073486288,
+      "pct": -2.266902631620629,
+      "today_vol": 1545095.8335095632,
+      "today_vol_raw": 293874,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 1014914.2857142857,
+      "avg30_vol": 1184273.3333333333
+    },
+    "DFDV": {
+      "price": 4.349999904632568,
+      "chg": -0.1471000953674313,
+      "pct": -3.2709989852889927,
+      "today_vol": 495299.8665951,
+      "today_vol_raw": 94205,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 959785.7142857143,
+      "avg30_vol": 900003.3333333334
+    },
+    "WU": {
+      "price": 8.515000343322754,
+      "chg": 0.03250034332275398,
+      "pct": 0.3831458098762626,
+      "today_vol": 4062405.288713301,
+      "today_vol_raw": 772661,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 7831285.714285715,
+      "avg30_vol": 8965366.666666666
+    },
+    "STRC": {
+      "price": 98.91000366210938,
+      "chg": 0.04000366210937045,
+      "pct": 0.040460869939688934,
+      "today_vol": 4270020.607773938,
+      "today_vol_raw": 812149,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 5849157.142857143,
+      "avg30_vol": 4194616.666666667
+    },
+    "SATA": {
+      "price": 100.0,
+      "chg": 0.0,
+      "pct": null,
+      "today_vol": 978422.9433060721,
+      "today_vol_raw": 186094,
+      "session_partial": true,
+      "session_factor": 0.1901979111111111,
+      "avg7_vol": 263528.5714285714,
+      "avg30_vol": 197616.66666666666
+    },
+    "FORD": {
+      "price": null,
+      "chg": null,
+      "pct": null,
+      "today_vol": null,
+      "today_vol_raw": null,
+      "session_partial": false,
+      "session_factor": null,
+      "avg7_vol": null,
+      "avg30_vol": null
+    }
+  },
+  "crypto": {
+    "BTC": {
+      "price": 76464,
+      "chg_24h": -0.031659063613985655
+    },
+    "ETH": {
+      "price": 2106.46,
+      "chg_24h": -0.30720160761939375
+    },
+    "SOL": {
+      "price": 84.32,
+      "chg_24h": 0.3698463099747128
+    },
+    "JUP": {
+      "price": 0.195571,
+      "chg_24h": 0.711322728201226
+    },
+    "MET": {
+      "price": 0.142012,
+      "chg_24h": -0.10158383369673393
+    },
+    "GMT": {
+      "price": 0.01032686,
+      "chg_24h": -0.9732920238683936
+    },
+    "LINK": {
+      "price": 9.51,
+      "chg_24h": 0.9834878284278344
+    }
+  },
+  "polymarket": [
+    {
+      "entry": "US x Iran permanent peace by? May 31, June 30",
+      "keyword": "US x Iran permanent peace by?",
+      "filters": [
+        {
+          "dir": "",
+          "val": "May 31"
+        },
+        {
+          "dir": "",
+          "val": "June 30"
+        }
+      ],
+      "title": "US x Iran permanent peace deal by...?",
+      "options": [
+        {
+          "label": "June 30",
+          "yes_pct": 33.5,
+          "chg_24h_pp": 6.0,
+          "volume": 10347104.999530213,
+          "end_date": "2026-05-31"
+        },
+        {
+          "label": "May 31",
+          "yes_pct": 11.0,
+          "chg_24h_pp": -0.5,
+          "volume": 27191552.572331835,
+          "end_date": "2026-05-31"
+        }
+      ],
+      "volume": 122140885.30343643,
+      "end_date": "2026-12-31",
+      "slug": "357807"
+    },
+    {
+      "entry": "Strait of Hormuz traffic returns to normal by end of May?",
+      "keyword": "Strait of Hormuz traffic returns to normal by end of May?",
+      "filters": [],
+      "title": "Strait of Hormuz traffic returns to normal by end of May?",
+      "options": [
+        {
+          "label": "Strait of Hormuz traffic returns to normal by end of May?",
+          "yes_pct": 3.95,
+          "chg_24h_pp": -0.8999999999999999,
+          "volume": 16161399.772314243,
+          "end_date": "2026-05-31"
+        }
+      ],
+      "volume": 16159257.322314242,
+      "end_date": "2026-05-31",
+      "slug": "329821"
+    },
+    {
+      "entry": "Trump announces US blockade of Hormuz lifted by? May 31",
+      "keyword": "Trump announces US blockade of Hormuz lifted by?",
+      "filters": [
+        {
+          "dir": "",
+          "val": "May 31"
+        }
+      ],
+      "title": "Trump announces US blockade of Hormuz lifted by...?",
+      "options": [
+        {
+          "label": "May 31",
+          "yes_pct": 20.5,
+          "chg_24h_pp": 3.0,
+          "volume": 3489241.115771992,
+          "end_date": "2026-05-31"
+        }
+      ],
+      "volume": 18778056.35356499,
+      "end_date": "2026-06-30",
+      "slug": "372242"
+    },
+    {
+      "entry": "Will the Iranian regime fall before 2027?",
+      "keyword": "Will the Iranian regime fall before 2027?",
+      "filters": [],
+      "title": "Will the Iranian regime fall before 2027?",
+      "options": [
+        {
+          "label": "Will the Iranian regime fall before 2027?",
+          "yes_pct": 17.5,
+          "chg_24h_pp": null,
+          "volume": 18032989.0664184,
+          "end_date": "2026-12-31"
+        }
+      ],
+      "volume": 18032147.0664184,
+      "end_date": "2026-12-31",
+      "slug": "72347"
+    },
+    {
+      "entry": "Will the U.S. invade Cuba in 2026?",
+      "keyword": "Will the U.S. invade Cuba in 2026?",
+      "filters": [],
+      "title": "Will the U.S. invade Cuba in 2026?",
+      "options": [
+        {
+          "label": "Will the U.S. invade Cuba in 2026?",
+          "yes_pct": 22.5,
+          "chg_24h_pp": 0.5,
+          "volume": 2092164.1612390345,
+          "end_date": "2026-12-31"
+        }
+      ],
+      "volume": 2092164.1612390345,
+      "end_date": "2026-12-31",
+      "slug": "143691"
+    },
+    {
+      "entry": "Will Crude Oil (CL) hit__ by end of June? <60, <70, >130, >150",
+      "keyword": "Will Crude Oil (CL) hit by end of June?",
+      "filters": [
+        {
+          "dir": "<",
+          "val": "60"
+        },
+        {
+          "dir": "<",
+          "val": "70"
+        },
+        {
+          "dir": ">",
+          "val": "130"
+        },
+        {
+          "dir": ">",
+          "val": "150"
+        }
+      ],
+      "title": "Will Crude Oil (CL) hit__ by end of June?",
+      "options": [
+        {
+          "label": "\u2191 $130",
+          "yes_pct": 29.5,
+          "chg_24h_pp": null,
+          "volume": 554758.4356860009,
+          "end_date": "2026-06-30"
+        },
+        {
+          "label": "\u2191 $150",
+          "yes_pct": 12.5,
+          "chg_24h_pp": null,
+          "volume": 2412911.822877995,
+          "end_date": "2026-06-30"
+        },
+        {
+          "label": "\u2193 $70",
+          "yes_pct": 11.0,
+          "chg_24h_pp": -1.0,
+          "volume": 398106.8066879983,
+          "end_date": "2026-06-30"
+        },
+        {
+          "label": "\u2193 $60",
+          "yes_pct": 5.5,
+          "chg_24h_pp": null,
+          "volume": 309052.15500399977,
+          "end_date": "2026-06-30"
+        }
+      ],
+      "volume": 17526478.338151995,
+      "end_date": "2026-06-30",
+      "slug": "125877"
+    },
+    {
+      "entry": "Which party will win the House in 2026? Democratic, Republican",
+      "keyword": "Which party will win the House in 2026?",
+      "filters": [
+        {
+          "dir": "",
+          "val": "Democratic"
+        },
+        {
+          "dir": "",
+          "val": "Republican"
+        }
+      ],
+      "title": "Which party will win the House in 2026?",
+      "options": [
+        {
+          "label": "Democratic Party",
+          "yes_pct": 80.5,
+          "chg_24h_pp": 1.0,
+          "volume": 3484977.8086159835,
+          "end_date": "2026-11-03"
+        },
+        {
+          "label": "Republican Party",
+          "yes_pct": 19.5,
+          "chg_24h_pp": -1.0,
+          "volume": 2941824.5159829548,
+          "end_date": "2026-11-03"
+        }
+      ],
+      "volume": 6426802.324598938,
+      "end_date": "2026-11-03",
+      "slug": "32225"
+    },
+    {
+      "entry": "Which party will win the Senate in 2026? Democratic, Republican",
+      "keyword": "Which party will win the Senate in 2026?",
+      "filters": [
+        {
+          "dir": "",
+          "val": "Democratic"
+        },
+        {
+          "dir": "",
+          "val": "Republican"
+        }
+      ],
+      "title": "Which party will win the Senate in 2026?",
+      "options": [
+        {
+          "label": "Republican Party",
+          "yes_pct": 52.5,
+          "chg_24h_pp": null,
+          "volume": 1127845.4736030148,
+          "end_date": "2026-11-03"
+        },
+        {
+          "label": "Democratic Party",
+          "yes_pct": 47.5,
+          "chg_24h_pp": null,
+          "volume": 1296956.0420310076,
+          "end_date": "2026-11-03"
+        }
+      ],
+      "volume": 2424801.515634022,
+      "end_date": "2026-11-03",
+      "slug": "32224"
+    },
+    {
+      "entry": "Trump out as President before 2027?",
+      "keyword": "Trump out as President before 2027?",
+      "filters": [],
+      "title": "Trump out as President before 2027?",
+      "options": [
+        {
+          "label": "Trump out as President before 2027?",
+          "yes_pct": 9.5,
+          "chg_24h_pp": null,
+          "volume": 8543349.848762263,
+          "end_date": "2026-12-31"
+        }
+      ],
+      "volume": 8543339.838762263,
+      "end_date": "2026-12-31",
+      "slug": "73969"
+    },
+    {
+      "entry": "How many Fed rate cuts in 2026? 0, 1, 2",
+      "keyword": "How many Fed rate cuts in 2026?",
+      "filters": [
+        {
+          "dir": "",
+          "val": "0"
+        },
+        {
+          "dir": "",
+          "val": "1"
+        },
+        {
+          "dir": "",
+          "val": "2"
+        }
+      ],
+      "title": "How many Fed rate cuts in 2026?",
+      "options": [
+        {
+          "label": "0 (0 bps)",
+          "yes_pct": 69.55,
+          "chg_24h_pp": -0.4,
+          "volume": 4242758.299202022,
+          "end_date": "2026-12-31"
+        },
+        {
+          "label": "1 (25 bps)",
+          "yes_pct": 16.5,
+          "chg_24h_pp": null,
+          "volume": 1256298.390602008,
+          "end_date": "2026-12-31"
+        },
+        {
+          "label": "2 (50 bps)",
+          "yes_pct": 7.5,
+          "chg_24h_pp": null,
+          "volume": 1229445.9847070011,
+          "end_date": "2026-12-31"
+        }
+      ],
+      "volume": 27979559.42921011,
+      "end_date": "2026-12-31",
+      "slug": "51456"
+    },
+    {
+      "entry": "Fed Decision in June?",
+      "keyword": "Fed Decision in June?",
+      "filters": [],
+      "title": "Fed Decision in June?",
+      "options": [
+        {
+          "label": "No change",
+          "yes_pct": 98.05,
+          "chg_24h_pp": 0.2,
+          "volume": 6009980.799355892,
+          "end_date": "2026-06-17"
+        },
+        {
+          "label": "25 bps decrease",
+          "yes_pct": 0.8500000000000001,
+          "chg_24h_pp": -0.1,
+          "volume": 6230192.423547882,
+          "end_date": "2026-06-17"
+        },
+        {
+          "label": "25 bps increase",
+          "yes_pct": 0.75,
+          "chg_24h_pp": null,
+          "volume": 6210625.80553698,
+          "end_date": "2026-06-17"
+        }
+      ],
+      "volume": 33982342.20985855,
+      "end_date": "2026-06-17",
+      "slug": "101772"
+    },
+    {
+      "entry": "What price will Bitcoin hit in 2026? 45k, 100k",
+      "keyword": "What price will Bitcoin hit in 2026?",
+      "filters": [
+        {
+          "dir": "",
+          "val": "45k"
+        },
+        {
+          "dir": "",
+          "val": "100k"
+        }
+      ],
+      "title": "What price will Bitcoin hit in 2026?",
+      "options": [
+        {
+          "label": "\u2191 100,000",
+          "yes_pct": 38.5,
+          "chg_24h_pp": null,
+          "volume": 1599366.216021998,
+          "end_date": "2027-01-01"
+        },
+        {
+          "label": "\u2193 45,000",
+          "yes_pct": 31.5,
+          "chg_24h_pp": -1.0,
+          "volume": 2494913.7854320016,
+          "end_date": "2027-01-01"
+        }
+      ],
+      "volume": 37193007.424109854,
+      "end_date": "2027-01-01",
+      "slug": "89502"
+    },
+    {
+      "entry": "Clarity Act signed into law in 2026?",
+      "keyword": "Clarity Act signed into law in 2026?",
+      "filters": [],
+      "title": "Clarity Act signed into law in 2026?",
+      "options": [
+        {
+          "label": "Clarity Act signed into law in 2026?",
+          "yes_pct": 63.5,
+          "chg_24h_pp": null,
+          "volume": 953938.8055869957,
+          "end_date": "2027-01-01"
+        }
+      ],
+      "volume": 953929.8355869957,
+      "end_date": "2027-01-01",
+      "slug": "158505"
+    }
+  ]
+}
