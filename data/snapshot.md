@@ -1,5 +1,5 @@
 # Macro Snapshot — 2026-05-24
-_Generated: 2026-05-24 20:42 MRU_
+_Generated: 2026-05-24 21:13 MRU_
 
 ## ETF Flows
 **BTC**:
@@ -24,10 +24,14 @@ Brent Crude: `101.16` +0.21 (+0.21%)
 EUR/USD: `1.1604`
 USD/JPY: `1.5921`
 
-## US Yields (IG-derived)
-**US 2Y**: 4.36% ΔY +1.1bps | futures 103.125
-**US 10Y**: 4.91% ΔY +1.6bps | futures 109.250
-**US 30Y**: 5.34% ΔY +1.6bps | futures 111.219
+## Sovereign Yields
+**🇺🇸 US 3M**: 3.67% (-0.4bps)
+**🇺🇸 US 10Y**: 4.56% (-2.6bps)
+**🇺🇸 US 30Y**: 5.06% (-4.7bps)
+**🇯🇵 JGB 10Y**: 2.75% (-1.4bps)
+**🇯🇵 JGB 30Y**: 4.00% (-3.5bps)
+**🇬🇧 Gilt 10Y**: 4.92% (+1.4bps)
+**🇬🇧 Gilt 30Y**: 5.59% (+3.1bps)
 
 ## Equities
 _US market: closed, 1d 20h until open_
@@ -80,37 +84,37 @@ _US market: closed, 1d 20h until open_
 FORD: N/A
 
 ## Crypto
-🟢 BTC: `$76,415` (+1.3%)
-🟢 ETH: `$2,096` (+1.8%)
-🟢 SOL: `$85.26` (+1.4%)
-🟢 JUP: `$0.202` (+2.4%)
-🔴 MET: `$0.132` (-3.1%)
-🥶 GMT: `$0.012` (-5.5%)
-🟢 LINK: `$9.43` (+1.3%)
+🟢 BTC: `$76,589` (+1.6%)
+🟢 ETH: `$2,102` (+2.1%)
+🟢 SOL: `$85.59` (+1.8%)
+🟢 JUP: `$0.203` (+2.1%)
+🔴 MET: `$0.132` (-3.6%)
+🥶 GMT: `$0.012` (-8.7%)
+🟢 LINK: `$9.45` (+1.7%)
 
 ## Prediction Markets
   US x Iran permanent peace deal by...?
-    • June 30: 48% (24h -2.0pp)
-    • May 31: 32% (24h -3.0pp)
+    • June 30: 48% (24h -1.0pp)
+    • May 31: 28% (24h -5.0pp)
     vol $0.2B | closes 2026-12-31
 
   Strait of Hormuz traffic returns to normal by end of June?
-    → 52% Yes (24h +5.0pp) | vol $9M | closes 2026-06-30
+    → 52% Yes (24h +7.0pp) | vol $9M | closes 2026-06-30
 
   Trump announces US blockade of Hormuz lifted by...?
-    → 48% Yes (24h +6.5pp) | vol $22M | closes 2026-06-30
+    → 38% Yes | vol $22M | closes 2026-06-30
 
   Will the Iranian regime fall before 2027?
-    → 12% Yes (24h -3.5pp) | vol $19M | closes 2026-12-31
+    → 12% Yes (24h -2.5pp) | vol $19M | closes 2026-12-31
 
   Will the U.S. invade Cuba in 2026?
     → 22% Yes (24h +1.0pp) | vol $2M | closes 2026-12-31
 
   Will Crude Oil (CL) hit__ by end of June?
-    • ↓ $60: 8% (24h +1.5pp)
+    • ↓ $60: 8% (24h +2.0pp)
     • ↓ $70: 17% (24h +3.5pp)
     • ↑ $130: 12% (24h -7.5pp)
-    • ↑ $150: 6% (24h -2.0pp)
+    • ↑ $150: 6% (24h -3.0pp)
     vol $19M | closes 2026-06-30
 
   Which party will win the House in 2026?
@@ -127,14 +131,14 @@ FORD: N/A
     → 10% Yes | vol $9M | closes 2026-12-31
 
   How many Fed rate cuts in 2026?
-    • 0 (0 bps): 65% (24h -6.1pp)
+    • 0 (0 bps): 65% (24h -6.0pp)
     • 1 (25 bps): 18% (24h +2.0pp)
     • 2 (50 bps): 8% (24h +1.0pp)
     vol $29M | closes 2026-12-31
 
   Fed Decision in June?
     • 25 bps decrease: 1% (24h +0.3pp)
-    • 25 bps increase: 1% (24h -0.2pp)
+    • 25 bps increase: 1% (24h -0.3pp)
     • 50+ bps decrease: 1% (24h +0.2pp)
     • No change: 97% (24h -0.2pp)
     vol $40M | closes 2026-06-17
