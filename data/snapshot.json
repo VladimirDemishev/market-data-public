@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-25T19:07:03.929195+04:00",
+  "generated_at": "2026-05-25T19:10:48.394885+04:00",
   "data_date": "2026-05-22",
-  "us_market": "closed, 22h 22m until open",
+  "us_market": "closed, 22h 19m until open",
   "etf_flows": [
     {
       "name": "BTC",
@@ -73,9 +73,9 @@
   "macro_ig": {
     "Nasdaq 100": {
       "epic": "IX.D.NASDAQ.CASH.IP",
-      "mid": 29855.3,
-      "net_change": 379.1,
-      "pct_change": 1.29,
+      "mid": 29858.6,
+      "net_change": 382.4,
+      "pct_change": 1.3,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -83,9 +83,9 @@
     },
     "S&P 500": {
       "epic": "IX.D.SPTRD.DAILY.IP",
-      "mid": 7537.66,
-      "net_change": 64.73,
-      "pct_change": 0.87,
+      "mid": 7538.5599999999995,
+      "net_change": 65.63,
+      "pct_change": 0.88,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -93,9 +93,9 @@
     },
     "Gold": {
       "epic": "CS.D.USCGC.TODAY.IP",
-      "mid": 4566.85,
-      "net_change": 57.16,
-      "pct_change": 1.27,
+      "mid": 4566.65,
+      "net_change": 56.96,
+      "pct_change": 1.26,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -103,9 +103,9 @@
     },
     "WTI Crude": {
       "epic": "CC.D.CL.USS.IP",
-      "mid": 9119.2,
-      "net_change": -516.5,
-      "pct_change": -5.36,
+      "mid": 9110.9,
+      "net_change": -524.8,
+      "pct_change": -5.45,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -113,9 +113,9 @@
     },
     "Brent Crude": {
       "epic": "CC.D.LCO.USS.IP",
-      "mid": 9586.9,
-      "net_change": -508.0,
-      "pct_change": -5.03,
+      "mid": 9581.2,
+      "net_change": -513.7,
+      "pct_change": -5.09,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -123,9 +123,9 @@
     },
     "EUR/USD": {
       "epic": "CS.D.EURUSD.TODAY.IP",
-      "mid": 11641.95,
-      "net_change": 37.8,
-      "pct_change": 0.33,
+      "mid": 11641.349999999999,
+      "net_change": 37.2,
+      "pct_change": 0.32,
       "status": "TRADEABLE",
       "scaling": 1,
       "today_vol": null,
@@ -133,8 +133,8 @@
     },
     "USD/JPY": {
       "epic": "CS.D.USDJPY.TODAY.IP",
-      "mid": 15893.7,
-      "net_change": -27.1,
+      "mid": 15894.4,
+      "net_change": -26.3,
       "pct_change": -0.17,
       "status": "TRADEABLE",
       "scaling": 1,
@@ -359,32 +359,32 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77639,
-      "chg_24h": 1.6577545253184982
+      "price": 77668,
+      "chg_24h": 1.670663363004917
     },
     "ETH": {
-      "price": 2126.87,
-      "chg_24h": 1.5232133759610837
+      "price": 2127.37,
+      "chg_24h": 1.4680173810472403
     },
     "SOL": {
-      "price": 86.23,
-      "chg_24h": 1.2002868260635164
+      "price": 86.22,
+      "chg_24h": 1.2510013437241485
     },
     "JUP": {
-      "price": 0.203931,
-      "chg_24h": 1.02379035310356
+      "price": 0.204015,
+      "chg_24h": 1.0654807793920065
     },
     "MET": {
-      "price": 0.135473,
-      "chg_24h": 1.9168131475711427
+      "price": 0.135371,
+      "chg_24h": 1.8449876430518481
     },
     "GMT": {
-      "price": 0.01166111,
-      "chg_24h": -1.4351174010508545
+      "price": 0.0116383,
+      "chg_24h": -1.2046289820767913
     },
     "LINK": {
-      "price": 9.61,
-      "chg_24h": 1.9270814631664739
+      "price": 9.6,
+      "chg_24h": 1.910481600930484
     }
   },
   "polymarket": [
